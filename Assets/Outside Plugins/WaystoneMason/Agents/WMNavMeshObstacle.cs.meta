@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 89fe8b8844354d088bd1188f6b3fb2d5
+timeCreated: 1753356811
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Agents/WMNavMeshObstacle.cs
+  uploadId: 792236

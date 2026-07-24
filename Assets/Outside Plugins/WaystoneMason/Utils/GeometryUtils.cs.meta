@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2adaa0e406bb426a801367669ea88cb1
+timeCreated: 1754146326
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Utils/GeometryUtils.cs
+  uploadId: 792236

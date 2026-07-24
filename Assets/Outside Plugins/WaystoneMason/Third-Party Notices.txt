@@ -1,0 +1,28 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This package uses the following third-party components:
+
+---
+
+LibTessDotNet
+https://github.com/speps/LibTessDotNet
+Copyright (c) 2013-2022 Stéphane Denis
+Licensed under the MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+Full license text available at: https://opensource.org/licenses/MIT
+
+---
+
+Clipper2
+https://github.com/AngusJohnson/Clipper2
+Copyright (c) 2022-2023 Angus Johnson
+Licensed under the Boost Software License - Version 1.0
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute, execute,
+and transmit the Software...
+
+Full license text available at: https://www.boost.org/LICENSE_1_0.txt

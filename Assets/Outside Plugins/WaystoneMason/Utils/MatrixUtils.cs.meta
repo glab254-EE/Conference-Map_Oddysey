@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3ec005403244414986018bef4ca46b09
+timeCreated: 1753874859
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Utils/MatrixUtils.cs
+  uploadId: 792236

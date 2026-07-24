@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8ad0ddb3d2514593b127cd9c45c42fc3
+timeCreated: 1753073390
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Tests/PathFindingTests.cs
+  uploadId: 792236

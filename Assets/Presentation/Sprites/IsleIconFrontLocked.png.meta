@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 9946fc26c3a6c0c42b5fe9528368ce71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8327869748116451591
+    second: IsleIconFrontLocked_0
+  - first:
+      213: 5222542829090898282
+    second: IsleIconFrontLocked_1
+  - first:
+      213: -2331380003361390911
+    second: IsleIconFrontLocked_2
+  - first:
+      213: -3555879122140394595
+    second: IsleIconFrontLocked_3
+  - first:
+      213: -1596970709927512329
+    second: IsleIconFrontLocked_4
+  - first:
+      213: -4803578293615004401
+    second: IsleIconFrontLocked_5
+  - first:
+      213: 5000989719016520703
+    second: IsleIconFrontLocked_6
+  - first:
+      213: -4897006255173870770
+    second: IsleIconFrontLocked_7
+  - first:
+      213: 8409754419021169862
+    second: IsleIconFrontLocked_8
+  - first:
+      213: 426010250740328888
+    second: IsleIconFrontLocked_9
+  - first:
+      213: -1559653876717951202
+    second: IsleIconFrontLocked_10
+  - first:
+      213: 7646260366900659268
+    second: IsleIconFrontLocked_11
+  - first:
+      213: 8547150878140741357
+    second: IsleIconFrontLocked_12
+  - first:
+      213: -1831634836616246796
+    second: IsleIconFrontLocked_13
+  - first:
+      213: -4949520823092407724
+    second: IsleIconFrontLocked_14
+  - first:
+      213: -944957862806372411
+    second: IsleIconFrontLocked_15
+  - first:
+      213: 5068412363572575465
+    second: IsleIconFrontLocked_16
+  - first:
+      213: -7877302934019613484
+    second: IsleIconFrontLocked_17
+  - first:
+      213: -8648116532627248655
+    second: IsleIconFrontLocked_18
+  - first:
+      213: 2743160825039585534
+    second: IsleIconFrontLocked_19
+  - first:
+      213: 6052273916670134608
+    second: IsleIconFrontLocked_20
+  - first:
+      213: 4266183798818294896
+    second: IsleIconFrontLocked_21
+  - first:
+      213: -4825468358113941284
+    second: IsleIconFrontLocked_22
+  - first:
+      213: -7478329846612905715
+    second: IsleIconFrontLocked_23
+  - first:
+      213: -1828178929917442008
+    second: IsleIconFrontLocked_24
+  - first:
+      213: 4775527748047332889
+    second: IsleIconFrontLocked_25
+  - first:
+      213: -7356068121435486232
+    second: IsleIconFrontLocked_26
+  - first:
+      213: -3064706576671541661
+    second: IsleIconFrontLocked_27
+  - first:
+      213: -1971031953133605630
+    second: IsleIconFrontLocked_28
+  - first:
+      213: 2042395611107100346
+    second: IsleIconFrontLocked_29
+  - first:
+      213: 8496423567738763173
+    second: IsleIconFrontLocked_30
+  - first:
+      213: 4157754433565297166
+    second: IsleIconFrontLocked_31
+  - first:
+      213: -6799736455617762262
+    second: IsleIconFrontLocked_32
+  - first:
+      213: 91553479223397983
+    second: IsleIconFrontLocked_33
+  - first:
+      213: 3793005844360500897
+    second: IsleIconFrontLocked_34
+  - first:
+      213: 6989590485987030526
+    second: IsleIconFrontLocked_35
+  - first:
+      213: 6969491237795404769
+    second: IsleIconFrontLocked_36
+  - first:
+      213: 3014386889022005041
+    second: IsleIconFrontLocked_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f338b969829370800000000000000
+      internalID: 8327869748116451591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 191
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a610a3868033a7840800000000000000
+      internalID: 5222542829090898282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 194
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cef1373d3645afd0800000000000000
+      internalID: -2331380003361390911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 193
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b089c37caf6aec0800000000000000
+      internalID: -3555879122140394595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 189
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63116b99b66d9e0800000000000000
+      internalID: -1596970709927512329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 183
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05fc4e0ef2465db0800000000000000
+      internalID: -4803578293615004401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb3c5f27a5176540800000000000000
+      internalID: 5000989719016520703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 177
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bde71a1c65a0cb0800000000000000
+      internalID: -4897006255173870770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4470a561375b470800000000000000
+      internalID: 8409754419021169862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96d02e01e79e500800000000000000
+      internalID: 426010250740328888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 142
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e176aa1001ffa5ae0800000000000000
+      internalID: -1559653876717951202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 155
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4440345ca49fc1a60800000000000000
+      internalID: 7646260366900659268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de63f3d50749d9670800000000000000
+      internalID: 8547150878140741357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9024d02d9b496e0800000000000000
+      internalID: -1831634836616246796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 138
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529d2bf805cf4bb0800000000000000
+      internalID: -4949520823092407724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 124
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb6b394d5d2e2f0800000000000000
+      internalID: -944957862806372411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf0f9e03e965640800000000000000
+      internalID: 5068412363572575465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5e9d97b23ea290800000000000000
+      internalID: -7877302934019613484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e19055d7bbf780800000000000000
+      internalID: -8648116532627248655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0804a8c3aa11620800000000000000
+      internalID: 2743160825039585534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 92
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0594c769f0ffdf350800000000000000
+      internalID: 6052273916670134608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4713df87843b30800000000000000
+      internalID: 4266183798818294896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 57
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd82bbf381e780db0800000000000000
+      internalID: -4825468358113941284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 61
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01bf6b50a2a73890800000000000000
+      internalID: -7478329846612905715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 43
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ca6803f001a6e0800000000000000
+      internalID: -1828178929917442008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e16d5f25164240800000000000000
+      internalID: 4775527748047332889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e74346840ff9e990800000000000000
+      internalID: -7356068121435486232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 30
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36670b42b99f775d0800000000000000
+      internalID: -3064706576671541661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20de680b1ec75a4e0800000000000000
+      internalID: -1971031953133605630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab60bdabcfb085c10800000000000000
+      internalID: 2042395611107100346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a77358083c59e570800000000000000
+      internalID: 8496423567738763173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a07fbe0af43b930800000000000000
+      internalID: 4157754433565297166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c21ac58bb72a1a0800000000000000
+      internalID: -6799736455617762262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ecf0f7763454100800000000000000
+      internalID: 91553479223397983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6961028b673a430800000000000000
+      internalID: 3793005844360500897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f4bab383000160800000000000000
+      internalID: 6989590485987030526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb1ef5da5b98b060800000000000000
+      internalID: 6969491237795404769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsleIconFrontLocked_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f50c797e045d920800000000000000
+      internalID: 3014386889022005041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IsleIconFrontLocked_0: 8327869748116451591
+      IsleIconFrontLocked_1: 5222542829090898282
+      IsleIconFrontLocked_10: -1559653876717951202
+      IsleIconFrontLocked_11: 7646260366900659268
+      IsleIconFrontLocked_12: 8547150878140741357
+      IsleIconFrontLocked_13: -1831634836616246796
+      IsleIconFrontLocked_14: -4949520823092407724
+      IsleIconFrontLocked_15: -944957862806372411
+      IsleIconFrontLocked_16: 5068412363572575465
+      IsleIconFrontLocked_17: -7877302934019613484
+      IsleIconFrontLocked_18: -8648116532627248655
+      IsleIconFrontLocked_19: 2743160825039585534
+      IsleIconFrontLocked_2: -2331380003361390911
+      IsleIconFrontLocked_20: 6052273916670134608
+      IsleIconFrontLocked_21: 4266183798818294896
+      IsleIconFrontLocked_22: -4825468358113941284
+      IsleIconFrontLocked_23: -7478329846612905715
+      IsleIconFrontLocked_24: -1828178929917442008
+      IsleIconFrontLocked_25: 4775527748047332889
+      IsleIconFrontLocked_26: -7356068121435486232
+      IsleIconFrontLocked_27: -3064706576671541661
+      IsleIconFrontLocked_28: -1971031953133605630
+      IsleIconFrontLocked_29: 2042395611107100346
+      IsleIconFrontLocked_3: -3555879122140394595
+      IsleIconFrontLocked_30: 8496423567738763173
+      IsleIconFrontLocked_31: 4157754433565297166
+      IsleIconFrontLocked_32: -6799736455617762262
+      IsleIconFrontLocked_33: 91553479223397983
+      IsleIconFrontLocked_34: 3793005844360500897
+      IsleIconFrontLocked_35: 6989590485987030526
+      IsleIconFrontLocked_36: 6969491237795404769
+      IsleIconFrontLocked_37: 3014386889022005041
+      IsleIconFrontLocked_4: -1596970709927512329
+      IsleIconFrontLocked_5: -4803578293615004401
+      IsleIconFrontLocked_6: 5000989719016520703
+      IsleIconFrontLocked_7: -4897006255173870770
+      IsleIconFrontLocked_8: 8409754419021169862
+      IsleIconFrontLocked_9: 426010250740328888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

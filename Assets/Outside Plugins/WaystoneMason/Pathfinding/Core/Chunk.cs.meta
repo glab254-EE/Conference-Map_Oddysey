@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a9f675e0e0f64a8caeb3d5f9d52338c9
+timeCreated: 1753179224
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Pathfinding/Core/Chunk.cs
+  uploadId: 792236

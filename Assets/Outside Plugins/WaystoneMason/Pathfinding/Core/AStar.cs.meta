@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ab17488680c5487baa0e85983390f835
+timeCreated: 1752575014
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Pathfinding/Core/AStar.cs
+  uploadId: 792236

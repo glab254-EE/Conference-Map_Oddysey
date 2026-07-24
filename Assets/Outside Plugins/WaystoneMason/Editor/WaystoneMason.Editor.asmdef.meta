@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 017b0a8ccb3ec7040a497974a926324f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Editor/WaystoneMason.Editor.asmdef
+  uploadId: 792236

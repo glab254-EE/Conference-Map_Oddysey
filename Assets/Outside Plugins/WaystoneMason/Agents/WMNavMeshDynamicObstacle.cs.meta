@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0ddbe2cd7d247bea51679b79bbe3aa0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Agents/WMNavMeshDynamicObstacle.cs
+  uploadId: 792236

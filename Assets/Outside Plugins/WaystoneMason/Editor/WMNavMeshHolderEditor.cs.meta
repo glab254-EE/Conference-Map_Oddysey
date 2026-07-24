@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1b6f53a2a7c648e6b4cd6bfba9e7c428
+timeCreated: 1753890939
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Editor/WMNavMeshHolderEditor.cs
+  uploadId: 792236

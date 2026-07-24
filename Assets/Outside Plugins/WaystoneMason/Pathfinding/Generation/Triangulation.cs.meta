@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 59a6c54696644c8789b43a5f068df5a0
+timeCreated: 1752922574
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Pathfinding/Generation/Triangulation.cs
+  uploadId: 792236

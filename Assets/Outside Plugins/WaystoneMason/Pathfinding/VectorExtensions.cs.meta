@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: acb708e5b5ed4f53bfe241eb8f849332
+timeCreated: 1752989242
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Pathfinding/VectorExtensions.cs
+  uploadId: 792236

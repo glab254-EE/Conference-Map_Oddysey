@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47b7d7f795a37a6439c69a61625dceb8
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Tests/Tests.asmdef
+  uploadId: 792236

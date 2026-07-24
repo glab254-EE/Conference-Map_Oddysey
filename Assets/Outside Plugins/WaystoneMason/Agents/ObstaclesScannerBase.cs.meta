@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 331b5a14a5494ce6bbb6974ae14e78dd
+timeCreated: 1754055415
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Agents/ObstaclesScannerBase.cs
+  uploadId: 792236

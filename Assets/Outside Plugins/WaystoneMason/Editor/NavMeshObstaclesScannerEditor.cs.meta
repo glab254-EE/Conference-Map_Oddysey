@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 26b1d0fb48ce483abcb607f5459da114
+timeCreated: 1753540181
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Editor/NavMeshObstaclesScannerEditor.cs
+  uploadId: 792236

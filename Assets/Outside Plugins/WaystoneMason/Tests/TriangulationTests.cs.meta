@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a6b1a35f0e2e4d9fbffae1f4824545d2
+timeCreated: 1752936847
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328102
+  packageName: Waystone Mason
+  packageVersion: 2.0
+  assetPath: Assets/WaystoneMason/Tests/TriangulationTests.cs
+  uploadId: 792236
