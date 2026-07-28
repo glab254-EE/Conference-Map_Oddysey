@@ -25,6 +25,7 @@ public class ShipMover : MonoBehaviour
     private float SlowedSpeed;
     [SerializeField]
     private float Acceloration = 1f;
+    public bool CanMove = false;
     private WMAgent agent;
     private bool moving = false;
     private float CurrentSpeed = 0f;
@@ -40,7 +41,7 @@ public class ShipMover : MonoBehaviour
     }
     void Update()
     {
-        if (moving && goal != null)
+        if (moving && goal != null && CanMove)
         {
             agent.Speed = CurrentSpeed;
             float distance = Vector2.Distance(transform.position, goal);
@@ -64,7 +65,7 @@ public class ShipMover : MonoBehaviour
             }
         }
 #if UNITY_EDITOR
-        if (Movement_Debugging_Toggle && Mouse.current.leftButton.isPressed)
+        if (Movement_Debugging_Toggle && Mouse.current.leftButton.isPressed && CanMove)
         {
             Vector2 point = targetCamera.ScreenToWorldPoint(Mouse.current.position.value);
             MoveAgent(point);
@@ -73,7 +74,7 @@ public class ShipMover : MonoBehaviour
     }
     public void MoveAgent(Vector2 target)
     {
-        if (agent == null) return;
+        if (agent == null || !CanMove) return;
         if (constructorCoroutine != null) StopCoroutine(constructorCoroutine);
         if (coroutine != null) StopCoroutine(coroutine);
         coroutine = StartCoroutine(MoveCoroutine(target));
