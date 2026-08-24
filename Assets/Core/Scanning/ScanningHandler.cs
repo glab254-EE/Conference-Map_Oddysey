@@ -12,10 +12,10 @@ public class ScanningHandler : MonoBehaviour
     }
     public void StartScanning()
     {
-        QRScanner.Scan();
+        QRScanner.instance.Scan();
     }
     public void StopScanning()
     {
-        QRScanner.StopScan();  
+        QRScanner.instance.StopScan();  
     }
 }

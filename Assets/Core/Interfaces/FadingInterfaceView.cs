@@ -34,22 +34,27 @@ public class FadingInterfaceView : AInterfaceView
         float stepDuration = Duration / Steps;
         List<GameObject> ignoredList = new();
 
-        if (target >= 1)
+        if (target >= 0.9)
         {
-            yield return new WaitForSeconds(StartupDelay);
+            yield return new WaitForSecondsRealtime(StartupDelay);
             foreach (GameObject frame in Frames)
             {
-                frame.SetActive(true);
                 if (frame.TryGetComponent(out CanvasGroup group))
                 {
                     group.alpha = 0;
+                    frame.SetActive(true);
+                    group.alpha = 0;
+                }
+                else
+                {
+                    frame.SetActive(true);
                 }
             }
         }
 
         for (float i = 1; i <= Steps; i++)
         {
-            yield return new WaitForSeconds(stepDuration);
+            yield return new WaitForSecondsRealtime(stepDuration);
             foreach(GameObject frame in Frames)
             {
                 if (ignoredList.Contains(frame)) continue;
@@ -64,7 +69,7 @@ public class FadingInterfaceView : AInterfaceView
             }
         }
 
-        if (target <= 0)
+        if (target <= 0.1)
         {
             foreach (GameObject frame in Frames)
             {

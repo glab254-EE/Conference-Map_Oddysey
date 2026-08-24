@@ -19,7 +19,7 @@ public abstract class AInterfaceView : MonoBehaviour
     }
     public void ToggleFrames(bool state)
     {
-        if (!state) Close();
-        else Open();
+        if (state)  Open();
+        else Close();
     }
 }

@@ -1,0 +1,6370 @@
+fileFormatVersion: 2
+guid: d1c5703c95c0b9243a6d939ede0a9283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1601142861783775919
+    second: FakeGreetingFrame_0
+  - first:
+      213: -9152026296152251503
+    second: FakeGreetingFrame_1
+  - first:
+      213: 400426913649063996
+    second: FakeGreetingFrame_2
+  - first:
+      213: 5654357307222649888
+    second: FakeGreetingFrame_3
+  - first:
+      213: 1498928273390968989
+    second: FakeGreetingFrame_4
+  - first:
+      213: -7038134621639392535
+    second: FakeGreetingFrame_5
+  - first:
+      213: -1597869814029543678
+    second: FakeGreetingFrame_6
+  - first:
+      213: -3990461060055017194
+    second: FakeGreetingFrame_7
+  - first:
+      213: 3106285150702022943
+    second: FakeGreetingFrame_8
+  - first:
+      213: 3927824255869526646
+    second: FakeGreetingFrame_9
+  - first:
+      213: -3381828818245843373
+    second: FakeGreetingFrame_10
+  - first:
+      213: 8951662655353983680
+    second: FakeGreetingFrame_11
+  - first:
+      213: -338046483532166254
+    second: FakeGreetingFrame_12
+  - first:
+      213: -463184600744854908
+    second: FakeGreetingFrame_13
+  - first:
+      213: -8209012570045517161
+    second: FakeGreetingFrame_14
+  - first:
+      213: 6331568767905032989
+    second: FakeGreetingFrame_15
+  - first:
+      213: -3202943228707299845
+    second: FakeGreetingFrame_16
+  - first:
+      213: 8232527174996019408
+    second: FakeGreetingFrame_17
+  - first:
+      213: -8950915371135144611
+    second: FakeGreetingFrame_18
+  - first:
+      213: -5236373298253601211
+    second: FakeGreetingFrame_19
+  - first:
+      213: 5832709636310766787
+    second: FakeGreetingFrame_20
+  - first:
+      213: -8936121604317671088
+    second: FakeGreetingFrame_21
+  - first:
+      213: 4469996243890865584
+    second: FakeGreetingFrame_22
+  - first:
+      213: -1512425765390606995
+    second: FakeGreetingFrame_23
+  - first:
+      213: 4996157498239864219
+    second: FakeGreetingFrame_24
+  - first:
+      213: 5330262779167602461
+    second: FakeGreetingFrame_25
+  - first:
+      213: -1821303379462091035
+    second: FakeGreetingFrame_26
+  - first:
+      213: -756489999399809144
+    second: FakeGreetingFrame_27
+  - first:
+      213: 6543385194947158288
+    second: FakeGreetingFrame_28
+  - first:
+      213: -2692827184751737423
+    second: FakeGreetingFrame_29
+  - first:
+      213: -5970787179855798554
+    second: FakeGreetingFrame_30
+  - first:
+      213: 5604313471896759673
+    second: FakeGreetingFrame_31
+  - first:
+      213: 2637086526594569863
+    second: FakeGreetingFrame_32
+  - first:
+      213: -7195002879183512493
+    second: FakeGreetingFrame_33
+  - first:
+      213: -5357138443441520451
+    second: FakeGreetingFrame_34
+  - first:
+      213: 7222345642842627467
+    second: FakeGreetingFrame_35
+  - first:
+      213: -4132123148406423738
+    second: FakeGreetingFrame_36
+  - first:
+      213: 8387504419986186163
+    second: FakeGreetingFrame_37
+  - first:
+      213: 7705509509896594946
+    second: FakeGreetingFrame_38
+  - first:
+      213: 8447793795350718970
+    second: FakeGreetingFrame_39
+  - first:
+      213: 3367850438200850669
+    second: FakeGreetingFrame_40
+  - first:
+      213: -6835588576913831869
+    second: FakeGreetingFrame_41
+  - first:
+      213: 2874865017545493172
+    second: FakeGreetingFrame_42
+  - first:
+      213: -4244297583265883742
+    second: FakeGreetingFrame_43
+  - first:
+      213: -16634250742258094
+    second: FakeGreetingFrame_44
+  - first:
+      213: -8753568248341522816
+    second: FakeGreetingFrame_45
+  - first:
+      213: 8166426476068622568
+    second: FakeGreetingFrame_46
+  - first:
+      213: 4948315343167089153
+    second: FakeGreetingFrame_47
+  - first:
+      213: 3861394435300669188
+    second: FakeGreetingFrame_48
+  - first:
+      213: -1200312740322049323
+    second: FakeGreetingFrame_49
+  - first:
+      213: -3496974784192471948
+    second: FakeGreetingFrame_50
+  - first:
+      213: -957515153023735544
+    second: FakeGreetingFrame_51
+  - first:
+      213: -4044002479065086856
+    second: FakeGreetingFrame_52
+  - first:
+      213: -1657298037592569418
+    second: FakeGreetingFrame_53
+  - first:
+      213: -3750673259147208292
+    second: FakeGreetingFrame_54
+  - first:
+      213: 8789515245943525029
+    second: FakeGreetingFrame_55
+  - first:
+      213: -8603561645624647368
+    second: FakeGreetingFrame_56
+  - first:
+      213: 8402554044168222960
+    second: FakeGreetingFrame_57
+  - first:
+      213: 3513890356843930895
+    second: FakeGreetingFrame_58
+  - first:
+      213: -1068289401756554108
+    second: FakeGreetingFrame_59
+  - first:
+      213: 3392029173208750928
+    second: FakeGreetingFrame_60
+  - first:
+      213: 4460079976884643126
+    second: FakeGreetingFrame_61
+  - first:
+      213: -8890935424964657645
+    second: FakeGreetingFrame_62
+  - first:
+      213: 4064653217772827619
+    second: FakeGreetingFrame_63
+  - first:
+      213: -4680043572479798077
+    second: FakeGreetingFrame_64
+  - first:
+      213: -7552570255397931105
+    second: FakeGreetingFrame_65
+  - first:
+      213: 6695030816847678633
+    second: FakeGreetingFrame_66
+  - first:
+      213: 8661405552987700677
+    second: FakeGreetingFrame_67
+  - first:
+      213: 6401143070916387266
+    second: FakeGreetingFrame_68
+  - first:
+      213: 2606269166407611125
+    second: FakeGreetingFrame_69
+  - first:
+      213: 3314896108991710693
+    second: FakeGreetingFrame_70
+  - first:
+      213: -5564935743960703934
+    second: FakeGreetingFrame_71
+  - first:
+      213: -7636156646382118523
+    second: FakeGreetingFrame_72
+  - first:
+      213: -5869330752317098895
+    second: FakeGreetingFrame_73
+  - first:
+      213: 49101449455030203
+    second: FakeGreetingFrame_74
+  - first:
+      213: 5151187270451832514
+    second: FakeGreetingFrame_75
+  - first:
+      213: -7842072674537027171
+    second: FakeGreetingFrame_76
+  - first:
+      213: 4768296832067275483
+    second: FakeGreetingFrame_77
+  - first:
+      213: 7031055248157885388
+    second: FakeGreetingFrame_78
+  - first:
+      213: -1110701546242799040
+    second: FakeGreetingFrame_79
+  - first:
+      213: 3178064938421783320
+    second: FakeGreetingFrame_80
+  - first:
+      213: 4873737602752507054
+    second: FakeGreetingFrame_81
+  - first:
+      213: 2447457334871494977
+    second: FakeGreetingFrame_82
+  - first:
+      213: 730501846707410216
+    second: FakeGreetingFrame_83
+  - first:
+      213: 1939074093928859580
+    second: FakeGreetingFrame_84
+  - first:
+      213: -5146296014676123476
+    second: FakeGreetingFrame_85
+  - first:
+      213: 4219314144240190638
+    second: FakeGreetingFrame_86
+  - first:
+      213: 4451920681400163731
+    second: FakeGreetingFrame_87
+  - first:
+      213: 5104975892702899131
+    second: FakeGreetingFrame_88
+  - first:
+      213: 8476380946228950420
+    second: FakeGreetingFrame_89
+  - first:
+      213: -6439304961757023092
+    second: FakeGreetingFrame_90
+  - first:
+      213: 4103064139724878890
+    second: FakeGreetingFrame_91
+  - first:
+      213: 6745677626452569098
+    second: FakeGreetingFrame_92
+  - first:
+      213: -2497439542348500796
+    second: FakeGreetingFrame_93
+  - first:
+      213: 5429260901421310721
+    second: FakeGreetingFrame_94
+  - first:
+      213: -4882247615265629337
+    second: FakeGreetingFrame_95
+  - first:
+      213: -7235508466498644345
+    second: FakeGreetingFrame_96
+  - first:
+      213: 5312273384232503752
+    second: FakeGreetingFrame_97
+  - first:
+      213: 7082215907104608932
+    second: FakeGreetingFrame_98
+  - first:
+      213: 5445502195523823380
+    second: FakeGreetingFrame_99
+  - first:
+      213: -931852102111915592
+    second: FakeGreetingFrame_100
+  - first:
+      213: 1711458137481358974
+    second: FakeGreetingFrame_101
+  - first:
+      213: 2742478891415286589
+    second: FakeGreetingFrame_102
+  - first:
+      213: -7317585656625510203
+    second: FakeGreetingFrame_103
+  - first:
+      213: 108414470517891033
+    second: FakeGreetingFrame_104
+  - first:
+      213: -8599220013601721444
+    second: FakeGreetingFrame_105
+  - first:
+      213: 1638079513152981578
+    second: FakeGreetingFrame_106
+  - first:
+      213: -549824705618760688
+    second: FakeGreetingFrame_107
+  - first:
+      213: 1405819271014243610
+    second: FakeGreetingFrame_108
+  - first:
+      213: 5292455318827703784
+    second: FakeGreetingFrame_109
+  - first:
+      213: -4960948091276211894
+    second: FakeGreetingFrame_110
+  - first:
+      213: -4214498870972437772
+    second: FakeGreetingFrame_111
+  - first:
+      213: -2998969226033348290
+    second: FakeGreetingFrame_112
+  - first:
+      213: -1308187225902692458
+    second: FakeGreetingFrame_113
+  - first:
+      213: -4015854974762748817
+    second: FakeGreetingFrame_114
+  - first:
+      213: -593697849052940357
+    second: FakeGreetingFrame_115
+  - first:
+      213: 1879513407666606004
+    second: FakeGreetingFrame_116
+  - first:
+      213: 7983115951302189686
+    second: FakeGreetingFrame_117
+  - first:
+      213: 6173511983260887091
+    second: FakeGreetingFrame_118
+  - first:
+      213: 6189201698295896652
+    second: FakeGreetingFrame_119
+  - first:
+      213: 7476039685335486633
+    second: FakeGreetingFrame_120
+  - first:
+      213: 4599405252668132322
+    second: FakeGreetingFrame_121
+  - first:
+      213: 9112785968868156941
+    second: FakeGreetingFrame_122
+  - first:
+      213: -2158993606431828709
+    second: FakeGreetingFrame_123
+  - first:
+      213: 2815340278486103601
+    second: FakeGreetingFrame_124
+  - first:
+      213: -298233300806408449
+    second: FakeGreetingFrame_125
+  - first:
+      213: 2336510431899638202
+    second: FakeGreetingFrame_126
+  - first:
+      213: 4291295631148613649
+    second: FakeGreetingFrame_127
+  - first:
+      213: 3359339299958756735
+    second: FakeGreetingFrame_128
+  - first:
+      213: -2035953858586689953
+    second: FakeGreetingFrame_129
+  - first:
+      213: -846706460092973465
+    second: FakeGreetingFrame_130
+  - first:
+      213: 7440428168187172096
+    second: FakeGreetingFrame_131
+  - first:
+      213: 8279666518515481911
+    second: FakeGreetingFrame_132
+  - first:
+      213: -3094488854539218074
+    second: FakeGreetingFrame_133
+  - first:
+      213: 6777993341127062950
+    second: FakeGreetingFrame_134
+  - first:
+      213: 254843147942278059
+    second: FakeGreetingFrame_135
+  - first:
+      213: -5003316868336378519
+    second: FakeGreetingFrame_136
+  - first:
+      213: 2219639692283891064
+    second: FakeGreetingFrame_137
+  - first:
+      213: -1254422663602648655
+    second: FakeGreetingFrame_138
+  - first:
+      213: -7956780021446702365
+    second: FakeGreetingFrame_139
+  - first:
+      213: 7123325391473026174
+    second: FakeGreetingFrame_140
+  - first:
+      213: -3107610116445409485
+    second: FakeGreetingFrame_141
+  - first:
+      213: 5222359739223898895
+    second: FakeGreetingFrame_142
+  - first:
+      213: 5019454235910169674
+    second: FakeGreetingFrame_143
+  - first:
+      213: 556089065519368992
+    second: FakeGreetingFrame_144
+  - first:
+      213: 376776804584336071
+    second: FakeGreetingFrame_145
+  - first:
+      213: 5235822177883435510
+    second: FakeGreetingFrame_146
+  - first:
+      213: 3610089643186299573
+    second: FakeGreetingFrame_147
+  - first:
+      213: -2871892540943294741
+    second: FakeGreetingFrame_148
+  - first:
+      213: 9017712907866765008
+    second: FakeGreetingFrame_149
+  - first:
+      213: -6619221042001553443
+    second: FakeGreetingFrame_150
+  - first:
+      213: -7697330938895004592
+    second: FakeGreetingFrame_151
+  - first:
+      213: -2456418584151085071
+    second: FakeGreetingFrame_152
+  - first:
+      213: -3608254672112169539
+    second: FakeGreetingFrame_153
+  - first:
+      213: 7618459629463973674
+    second: FakeGreetingFrame_154
+  - first:
+      213: -7594333570367066406
+    second: FakeGreetingFrame_155
+  - first:
+      213: 6946354476991957347
+    second: FakeGreetingFrame_156
+  - first:
+      213: 648540492958525029
+    second: FakeGreetingFrame_157
+  - first:
+      213: -2853219030379470318
+    second: FakeGreetingFrame_158
+  - first:
+      213: 2136710264602120472
+    second: FakeGreetingFrame_159
+  - first:
+      213: 8447567746685904659
+    second: FakeGreetingFrame_160
+  - first:
+      213: 140856636174793008
+    second: FakeGreetingFrame_161
+  - first:
+      213: 8782819852730556921
+    second: FakeGreetingFrame_162
+  - first:
+      213: 2155803883933930810
+    second: FakeGreetingFrame_163
+  - first:
+      213: -5660767790605406207
+    second: FakeGreetingFrame_164
+  - first:
+      213: -3001647641851190956
+    second: FakeGreetingFrame_165
+  - first:
+      213: -3380293006304628529
+    second: FakeGreetingFrame_166
+  - first:
+      213: 6638220926001957631
+    second: FakeGreetingFrame_167
+  - first:
+      213: 4723940882688333181
+    second: FakeGreetingFrame_168
+  - first:
+      213: -5086933239160148404
+    second: FakeGreetingFrame_169
+  - first:
+      213: 1271641387114365644
+    second: FakeGreetingFrame_170
+  - first:
+      213: -7604407685857852437
+    second: FakeGreetingFrame_171
+  - first:
+      213: 1932442319802004683
+    second: FakeGreetingFrame_172
+  - first:
+      213: -7683403448361876718
+    second: FakeGreetingFrame_173
+  - first:
+      213: 1416073298874169966
+    second: FakeGreetingFrame_174
+  - first:
+      213: -2436054617704131063
+    second: FakeGreetingFrame_175
+  - first:
+      213: -2845680549694457977
+    second: FakeGreetingFrame_176
+  - first:
+      213: 4805980341776388507
+    second: FakeGreetingFrame_177
+  - first:
+      213: -2169511578138577237
+    second: FakeGreetingFrame_178
+  - first:
+      213: -7376825945398012378
+    second: FakeGreetingFrame_179
+  - first:
+      213: 8762921869791017605
+    second: FakeGreetingFrame_180
+  - first:
+      213: -8984907566248070880
+    second: FakeGreetingFrame_181
+  - first:
+      213: 7504595116915017829
+    second: FakeGreetingFrame_182
+  - first:
+      213: -2436287449556136572
+    second: FakeGreetingFrame_183
+  - first:
+      213: 4119236889233743292
+    second: FakeGreetingFrame_184
+  - first:
+      213: 3960466039825609456
+    second: FakeGreetingFrame_185
+  - first:
+      213: -8424895327726075766
+    second: FakeGreetingFrame_186
+  - first:
+      213: 5253953542302131969
+    second: FakeGreetingFrame_187
+  - first:
+      213: -2280250695032286776
+    second: FakeGreetingFrame_188
+  - first:
+      213: -5675606341642599987
+    second: FakeGreetingFrame_189
+  - first:
+      213: 7479113387666991346
+    second: FakeGreetingFrame_190
+  - first:
+      213: -2613225519368551684
+    second: FakeGreetingFrame_191
+  - first:
+      213: 1787609401589413654
+    second: FakeGreetingFrame_192
+  - first:
+      213: -1595433381040289509
+    second: FakeGreetingFrame_193
+  - first:
+      213: 5094263062195890771
+    second: FakeGreetingFrame_194
+  - first:
+      213: -869353471529196573
+    second: FakeGreetingFrame_195
+  - first:
+      213: 961509015409483497
+    second: FakeGreetingFrame_196
+  - first:
+      213: -2154838494394990972
+    second: FakeGreetingFrame_197
+  - first:
+      213: 1552150791965523764
+    second: FakeGreetingFrame_198
+  - first:
+      213: 7644431790890603621
+    second: FakeGreetingFrame_199
+  - first:
+      213: -6711838453783228758
+    second: FakeGreetingFrame_200
+  - first:
+      213: 5409858606958121948
+    second: FakeGreetingFrame_201
+  - first:
+      213: -537472473429811358
+    second: FakeGreetingFrame_202
+  - first:
+      213: 7030958424108732775
+    second: FakeGreetingFrame_203
+  - first:
+      213: 5773256608077199473
+    second: FakeGreetingFrame_204
+  - first:
+      213: 4258183139755940622
+    second: FakeGreetingFrame_205
+  - first:
+      213: -6702875601834808482
+    second: FakeGreetingFrame_206
+  - first:
+      213: -6466984686598558992
+    second: FakeGreetingFrame_207
+  - first:
+      213: 5349310687642243133
+    second: FakeGreetingFrame_208
+  - first:
+      213: 4565715888445703083
+    second: FakeGreetingFrame_209
+  - first:
+      213: 6605903853417222807
+    second: FakeGreetingFrame_210
+  - first:
+      213: 7801827095332361809
+    second: FakeGreetingFrame_211
+  - first:
+      213: -8878152768649862256
+    second: FakeGreetingFrame_212
+  - first:
+      213: -2049073214824903418
+    second: FakeGreetingFrame_213
+  - first:
+      213: -7232184113147721684
+    second: FakeGreetingFrame_214
+  - first:
+      213: -7160935160991290729
+    second: FakeGreetingFrame_215
+  - first:
+      213: -3584633179450362954
+    second: FakeGreetingFrame_216
+  - first:
+      213: 2998704659262585196
+    second: FakeGreetingFrame_217
+  - first:
+      213: 7541415025584841520
+    second: FakeGreetingFrame_218
+  - first:
+      213: 3137847091643892503
+    second: FakeGreetingFrame_219
+  - first:
+      213: -3542745257984339303
+    second: FakeGreetingFrame_220
+  - first:
+      213: -4969572668028809742
+    second: FakeGreetingFrame_221
+  - first:
+      213: 284934489857530884
+    second: FakeGreetingFrame_222
+  - first:
+      213: 2301138716587491704
+    second: FakeGreetingFrame_223
+  - first:
+      213: -3727689632872892001
+    second: FakeGreetingFrame_224
+  - first:
+      213: -4347371079266879698
+    second: FakeGreetingFrame_225
+  - first:
+      213: -3378595150473179947
+    second: FakeGreetingFrame_226
+  - first:
+      213: -6626514115141717645
+    second: FakeGreetingFrame_227
+  - first:
+      213: 6795471104493829019
+    second: FakeGreetingFrame_228
+  - first:
+      213: -6573048650346441911
+    second: FakeGreetingFrame_229
+  - first:
+      213: -1963125633290505555
+    second: FakeGreetingFrame_230
+  - first:
+      213: 6122678650356805627
+    second: FakeGreetingFrame_231
+  - first:
+      213: -2296434764041603737
+    second: FakeGreetingFrame_232
+  - first:
+      213: 3226840299119128910
+    second: FakeGreetingFrame_233
+  - first:
+      213: -3367051789369737564
+    second: FakeGreetingFrame_234
+  - first:
+      213: -4974914701779667972
+    second: FakeGreetingFrame_235
+  - first:
+      213: -1714138754899739373
+    second: FakeGreetingFrame_236
+  - first:
+      213: 2788148559124180837
+    second: FakeGreetingFrame_237
+  - first:
+      213: 3901429959892812044
+    second: FakeGreetingFrame_238
+  - first:
+      213: 1167421417528443665
+    second: FakeGreetingFrame_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 864
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FakeGreetingFrame_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 782
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa364713f6683610800000000000000
+      internalID: 1601142861783775919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 816
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193afcab2987df080800000000000000
+      internalID: -9152026296152251503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 815
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38fe8a082a9e8500800000000000000
+      internalID: 400426913649063996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 816
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce32a4300587e40800000000000000
+      internalID: 5654357307222649888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 832
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90224fa2534dc410800000000000000
+      internalID: 1498928273390968989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 812
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24ecbe9d5835e90800000000000000
+      internalID: -7038134621639392535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 816
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2071379bed933d9e0800000000000000
+      internalID: -1597869814029543678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 815
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6195469eec80f98c0800000000000000
+      internalID: -3990461060055017194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 815
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113aa203edbb1b20800000000000000
+      internalID: 3106285150702022943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 810
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722447a95f628630800000000000000
+      internalID: 3927824255869526646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 816
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35607458b945111d0800000000000000
+      internalID: -3381828818245843373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 815
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c21181d1c1ba3c70800000000000000
+      internalID: 8951662655353983680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 816
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bce77a3840f4bf0800000000000000
+      internalID: -338046483532166254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 815
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48afb274f007299f0800000000000000
+      internalID: -463184600744854908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 816
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79278bd8f8ab31e80800000000000000
+      internalID: -8209012570045517161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 816
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1befe19f304ed750800000000000000
+      internalID: 6331568767905032989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 810
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd98297a1cdc83d0800000000000000
+      internalID: -3202943228707299845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 810
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8436d09dfcf3270800000000000000
+      internalID: 8232527174996019408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 816
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5de7e8d4e5f7c380800000000000000
+      internalID: -8950915371135144611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 832
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e04e8a3aa457b0800000000000000
+      internalID: -5236373298253601211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 816
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41d4ed282f1f050800000000000000
+      internalID: 5832709636310766787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 815
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05193f81fb48cf380800000000000000
+      internalID: -8936121604317671088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_22
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 812
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5027896ed980e30800000000000000
+      internalID: 4469996243890865584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_23
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 816
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d9eb097c8c20be0800000000000000
+      internalID: -1512425765390606995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 816
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dcd7c16cae55540800000000000000
+      internalID: 4996157498239864219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 815
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1775c7b1c5e8f940800000000000000
+      internalID: 5330262779167602461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 812
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee81fed93e69b6e0800000000000000
+      internalID: -1821303379462091035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 815
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f83a58a586085f0800000000000000
+      internalID: -756489999399809144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 778
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011206d9a26ceca50800000000000000
+      internalID: 6543385194947158288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 777
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b58b5351f721aad0800000000000000
+      internalID: -2692827184751737423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 777
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1d3bc1b0832da0800000000000000
+      internalID: -5970787179855798554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 777
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97da756e86586cd40800000000000000
+      internalID: 5604313471896759673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 778
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78653ab5930d89420800000000000000
+      internalID: 2637086526594569863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 774
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c9a5c8007362c90800000000000000
+      internalID: -7195002879183512493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 777
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0441218fe97a5b0800000000000000
+      internalID: -5357138443441520451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 774
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d99b6b81dea3460800000000000000
+      internalID: 7222345642842627467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 778
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff013b3efb7a6c0800000000000000
+      internalID: -4132123148406423738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 777
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf9b41c4d6666470800000000000000
+      internalID: 8387504419986186163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 777
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e7ced2187fea60800000000000000
+      internalID: 7705509509896594946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_39
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 778
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9e0a3d2b79c3570800000000000000
+      internalID: 8447793795350718970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 778
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8fa9141220dbe20800000000000000
+      internalID: 3367850438200850669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 778
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484552e76c1321a0800000000000000
+      internalID: -6835588576913831869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 778
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0ff3708295e720800000000000000
+      internalID: 2874865017545493172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 777
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a95364d5d93915c0800000000000000
+      internalID: -4244297583265883742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 777
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2562761bc37e4cff0800000000000000
+      internalID: -16634250742258094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 774
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08617787e04158680800000000000000
+      internalID: -8753568248341522816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 778
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e05a66cc99f45170800000000000000
+      internalID: 8166426476068622568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 778
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae61a5692fba440800000000000000
+      internalID: 4948315343167089153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 778
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40734c5c7cd669530800000000000000
+      internalID: 3861394435300669188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 777
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28ab51ce1a75fe0800000000000000
+      internalID: -1200312740322049323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_50
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 778
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c95b726ff387fc0800000000000000
+      internalID: -3496974784192471948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_51
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 777
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80967fc9a0936b2f0800000000000000
+      internalID: -957515153023735544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 675
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c68cdb21d0e7c0800000000000000
+      internalID: -4044002479065086856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 709
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c75e27381009e0800000000000000
+      internalID: -1657298037592569418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 703
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9959ffea8ee2fbc0800000000000000
+      internalID: -3750673259147208292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 708
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae085e1c81aaf970800000000000000
+      internalID: 8789515245943525029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_56
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 705
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8312e5554420a9880800000000000000
+      internalID: -8603561645624647368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 725
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83ba0726edb9470800000000000000
+      internalID: 8402554044168222960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_58
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 709
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056a5389a8d3c030800000000000000
+      internalID: 3513890356843930895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 708
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c6cfaf27cac21f0800000000000000
+      internalID: -1068289401756554108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 709
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9ed0bf88e21f20800000000000000
+      internalID: 3392029173208750928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 708
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635aa04cb1365ed30800000000000000
+      internalID: 4460079976884643126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 709
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7b02565d0d9480800000000000000
+      internalID: -8890935424964657645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 709
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37f7ce09c886830800000000000000
+      internalID: 4064653217772827619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_64
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 709
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4ddf0ba252d0fb0800000000000000
+      internalID: -4680043572479798077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 709
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9733d13e51ef2790800000000000000
+      internalID: -7552570255397931105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 708
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9accf7e5e0789ec50800000000000000
+      internalID: 6695030816847678633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 709
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd7d69d57e733870800000000000000
+      internalID: 8661405552987700677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 709
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ac6255bd65d850800000000000000
+      internalID: 6401143070916387266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_69
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f277cc8ff35b2420800000000000000
+      internalID: 2606269166407611125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_70
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 708
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e586c3b270e00e20800000000000000
+      internalID: 3314896108991710693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_71
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 705
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c1957dc6065c2b0800000000000000
+      internalID: -5564935743960703934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_72
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 709
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d72bfcfbe60690800000000000000
+      internalID: -7636156646382118523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 709
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174fcde17c2fb8ea0800000000000000
+      internalID: -5869330752317098895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_74
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 709
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf49b412817ea000800000000000000
+      internalID: 49101449455030203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_75
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6abc2c781bc7740800000000000000
+      internalID: 5151187270451832514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_76
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 709
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d994c6b937c5b2390800000000000000
+      internalID: -7842072674537027171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_77
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 703
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda8dfa84b46c2240800000000000000
+      internalID: 4768296832067275483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_78
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3c89efe73539160800000000000000
+      internalID: 7031055248157885388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_79
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 708
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a88b414def590f0800000000000000
+      internalID: -1110701546242799040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_80
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 708
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b01cf2931ca1c20800000000000000
+      internalID: 3178064938421783320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 705
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace68c078ef2a340800000000000000
+      internalID: 4873737602752507054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 667
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14190f79a7d17f120800000000000000
+      internalID: 2447457334871494977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82513c82f83432a00800000000000000
+      internalID: 730501846707410216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 670
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7cac16d99f8ea10800000000000000
+      internalID: 1939074093928859580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_85
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0a8387a0fa498b0800000000000000
+      internalID: -5146296014676123476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_86
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 670
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c73bfbd30e8a30800000000000000
+      internalID: 4219314144240190638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d521fb54668cd30800000000000000
+      internalID: 4451920681400163731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 671
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb2d7fe68488d640800000000000000
+      internalID: 5104975892702899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 671
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495bdd09f8722a570800000000000000
+      internalID: 8476380946228950420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_90
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ff02114ef2a6a0800000000000000
+      internalID: -6439304961757023092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24f1fa981301f830800000000000000
+      internalID: 4103064139724878890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 671
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6106af067d9d50800000000000000
+      internalID: 6745677626452569098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_93
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 671
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bd4ed7ff475dd0800000000000000
+      internalID: -2497439542348500796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_94
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 670
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103622e360c985b40800000000000000
+      internalID: 5429260901421310721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_95
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 671
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b189249a5ce3cb0800000000000000
+      internalID: -4882247615265629337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_96
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7865405926f469b90800000000000000
+      internalID: -7235508466498644345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_97
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 671
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c0f05f7cf8b940800000000000000
+      internalID: 5312273384232503752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 665
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2579528d5194260800000000000000
+      internalID: 7082215907104608932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_99
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 671
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417aec3356f429b40800000000000000
+      internalID: 5445502195523823380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_100
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 671
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11b6643756113f0800000000000000
+      internalID: -931852102111915592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_101
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e278cbb1250c710800000000000000
+      internalID: 1711458137481358974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_102
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 670
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33b0de750e3f0620800000000000000
+      internalID: 2742478891415286589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_103
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 670
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c7539d96b27a90800000000000000
+      internalID: -7317585656625510203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_104
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 670
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1bb3f26a218100800000000000000
+      internalID: 108414470517891033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_105
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 665
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f6df45fe69a880800000000000000
+      internalID: -8599220013601721444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_106
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 670
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a045763a0abb610800000000000000
+      internalID: 1638079513152981578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_107
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 671
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c2cd4e751ae58f0800000000000000
+      internalID: -549824705618760688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_108
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dd33bbd29728310800000000000000
+      internalID: 1405819271014243610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 633
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1a546214927940800000000000000
+      internalID: 5292455318827703784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 632
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a494456cefb272bb0800000000000000
+      internalID: -4960948091276211894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_111
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 627
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa27613b971385c0800000000000000
+      internalID: -4214498870972437772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_112
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 633
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3144fdc0658166d0800000000000000
+      internalID: -2998969226033348290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_113
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 633
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697cd5c26a268dde0800000000000000
+      internalID: -1308187225902692458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_114
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 633
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64f7c76d21d448c0800000000000000
+      internalID: -4015854974762748817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 649
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7394ba3f2c2c7f0800000000000000
+      internalID: -593697849052940357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_116
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 632
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4d867c7f551a10800000000000000
+      internalID: 1879513407666606004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_117
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 633
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722f1e49a9b9ce60800000000000000
+      internalID: 7983115951302189686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_118
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 633
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338e1eaa078bca550800000000000000
+      internalID: 6173511983260887091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 632
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4adb2e172674e550800000000000000
+      internalID: 6189201698295896652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_120
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 633
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0152beb7a30c760800000000000000
+      internalID: 7476039685335486633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_121
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 632
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb895765be54df30800000000000000
+      internalID: 4599405252668132322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_122
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 632
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ec8c9e8e177e70800000000000000
+      internalID: 9112785968868156941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_123
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 632
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159a48f0c6b902e0800000000000000
+      internalID: -2158993606431828709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 632
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13673052119121720800000000000000
+      internalID: 2815340278486103601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_125
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 633
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6ed3d94667cdbf0800000000000000
+      internalID: -298233300806408449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_126
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 633
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab95f53cbd3fc6020800000000000000
+      internalID: 2336510431899638202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_127
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 632
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1108cc8e3aebd8b30800000000000000
+      internalID: 4291295631148613649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_128
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 530
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f751d067b45ce9e20800000000000000
+      internalID: 3359339299958756735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_129
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 563
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ebad7a0c6deb3e0800000000000000
+      internalID: -2035953858586689953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_130
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 564
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3129e5f4ef34f0800000000000000
+      internalID: -846706460092973465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 558
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0055b957ff5b14760800000000000000
+      internalID: 7440428168187172096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 564
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d7fceb4d847e270800000000000000
+      internalID: 8279666518515481911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_133
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 564
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663d8c738ca2e05d0800000000000000
+      internalID: -3094488854539218074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_134
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 563
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a577db4805401e50800000000000000
+      internalID: 6777993341127062950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_135
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 564
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ba8a2e72698300800000000000000
+      internalID: 254843147942278059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 580
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d171421d5a09ab0800000000000000
+      internalID: -5003316868336378519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_137
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 563
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d40fb3a8ebdce10800000000000000
+      internalID: 2219639692283891064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_138
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 564
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9c3c1db35679ee0800000000000000
+      internalID: -1254422663602648655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 563
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8eb13ab6d39190800000000000000
+      internalID: -7956780021446702365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 563
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74254ad3b22bd260800000000000000
+      internalID: 7123325391473026174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_141
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 563
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6cdc501d8fd4d0800000000000000
+      internalID: -3107610116445409485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_142
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 564
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bfdb9738c897840800000000000000
+      internalID: 5222359739223898895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_143
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 564
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4461c9880fa8a540800000000000000
+      internalID: 5019454235910169674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_144
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 563
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bc2cd0f00a7b700800000000000000
+      internalID: 556089065519368992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_145
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 558
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca2bdce1849a3500800000000000000
+      internalID: 376776804584336071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_146
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 560
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1badbb78069a840800000000000000
+      internalID: 5235822177883435510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_147
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 564
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2af65476d991230800000000000000
+      internalID: 3610089643186299573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_148
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 563
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1bff23fcf428d0800000000000000
+      internalID: -2871892540943294741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_149
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 563
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d67adf9c1a552d70800000000000000
+      internalID: 9017712907866765008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 526
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7d4bd488dc324a0800000000000000
+      internalID: -6619221042001553443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 525
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c0a841b469d2590800000000000000
+      internalID: -7697330938895004592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_152
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 520
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa108ff4c09edd0800000000000000
+      internalID: -2456418584151085071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 526
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd4c993e77ecedc0800000000000000
+      internalID: -3608254672112169539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_154
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 520
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2faadd2ba43ab960800000000000000
+      internalID: 7618459629463973674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_155
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 520
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade6270bad18b9690800000000000000
+      internalID: -7594333570367066406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_156
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 525
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369cc0de798666060800000000000000
+      internalID: 6946354476991957347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_157
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 526
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ef396424100900800000000000000
+      internalID: 648540492958525029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_158
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 525
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e8dba8645768d0800000000000000
+      internalID: -2853219030379470318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_159
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 525
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115a853aae17ad10800000000000000
+      internalID: 2136710264602120472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_160
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 525
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317a245cb1acb3570800000000000000
+      internalID: 8447567746685904659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_161
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 522
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03974734d5c64f100800000000000000
+      internalID: 140856636174793008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_162
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 526
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1e0486f18d2e970800000000000000
+      internalID: 8782819852730556921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_163
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 526
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a351a43e534faed10800000000000000
+      internalID: 2155803883933930810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_164
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 526
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100fdfcbfa9e071b0800000000000000
+      internalID: -5660767790605406207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_165
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 542
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45122968f510856d0800000000000000
+      internalID: -3001647641851190956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_166
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 526
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b97a9b69c611d0800000000000000
+      internalID: -3380293006304628529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_167
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 525
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa49eae2c2bf1c50800000000000000
+      internalID: 6638220926001957631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_168
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 526
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75559c443fce8140800000000000000
+      internalID: 4723940882688333181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_169
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 526
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e6bb3bb259769b0800000000000000
+      internalID: -5086933239160148404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_170
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 526
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc203a8aa17c5a110800000000000000
+      internalID: 1271641387114365644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_171
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 525
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34135ef77b77690800000000000000
+      internalID: -7604407685857852437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_172
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 520
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4fab42d0a61da10800000000000000
+      internalID: 1932442319802004683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_173
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 522
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213016aa5411f5590800000000000000
+      internalID: -7683403448361876718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_174
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 525
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a7f43a927e6a310800000000000000
+      internalID: 1416073298874169966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_175
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 488
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069b426b35613ed0800000000000000
+      internalID: -2436054617704131063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_176
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787393bfd9c1288d0800000000000000
+      internalID: -2845680549694457977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_177
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 488
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91971d58a542b240800000000000000
+      internalID: 4805980341776388507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_178
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 488
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6f3f8d6b854e1e0800000000000000
+      internalID: -2169511578138577237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_179
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 488
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269aa203ef30a990800000000000000
+      internalID: -7376825945398012378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_180
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a356b33072c9970800000000000000
+      internalID: 8762921869791017605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_181
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 487
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021701e2c223f4380800000000000000
+      internalID: -8984907566248070880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_182
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 385
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c9de6f7da52860800000000000000
+      internalID: 7504595116915017829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_183
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 419
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc67ef871903ed0800000000000000
+      internalID: -2436287449556136572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_184
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 418
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd567840287a2930800000000000000
+      internalID: 4119236889233743292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_185
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 415
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2bdc831e666f630800000000000000
+      internalID: 3960466039825609456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_186
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 419
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a800a012652c41b80800000000000000
+      internalID: -8424895327726075766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_187
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 419
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107e25bf8eac9e840800000000000000
+      internalID: 5253953542302131969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_188
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 419
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c153cbf21cea50e0800000000000000
+      internalID: -2280250695032286776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_189
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 418
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc140795a123c31b0800000000000000
+      internalID: -5675606341642599987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_190
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 418
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f862c200062bc760800000000000000
+      internalID: 7479113387666991346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_191
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 435
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf24d005c35fbbbd0800000000000000
+      internalID: -2613225519368551684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_192
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 418
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617b2e2974ddec810800000000000000
+      internalID: 1787609401589413654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_193
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 419
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b190b4cfac1ebd9e0800000000000000
+      internalID: -1595433381040289509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_194
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 419
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a6496b34572b640800000000000000
+      internalID: 5094263062195890771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_195
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 413
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ef39af9f6fe3f0800000000000000
+      internalID: -869353471529196573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_196
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 418
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee51dfea57f75d00800000000000000
+      internalID: 961509015409483497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_197
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 419
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ebf316ec97812e0800000000000000
+      internalID: -2154838494394990972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_198
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 435
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f32f0fbe85a8510800000000000000
+      internalID: 1552150791965523764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_199
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 419
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564dcbd363a761a60800000000000000
+      internalID: 7644431790890603621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_200
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 419
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae8174bc72cad2a0800000000000000
+      internalID: -6711838453783228758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_201
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 419
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd314d88dbda31b40800000000000000
+      internalID: 5409858606958121948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_202
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 418
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5aa012a38a88f0800000000000000
+      internalID: -537472473429811358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_203
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 419
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619a836f6bf29160800000000000000
+      internalID: 7030958424108732775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_204
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 418
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1783e990c4abe1050800000000000000
+      internalID: 5773256608077199473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_205
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 419
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bd5b9310b181b30800000000000000
+      internalID: 4258183139755940622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_206
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 418
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5be00b472a9af2a0800000000000000
+      internalID: -6702875601834808482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_207
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 380
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae66be0b7a046a0800000000000000
+      internalID: -6466984686598558992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_208
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30dd128ab19c3a40800000000000000
+      internalID: 5349310687642243133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_209
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c92c096eac5f30800000000000000
+      internalID: 4565715888445703083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_210
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 381
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792515b1e82ecab50800000000000000
+      internalID: 6605903853417222807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_211
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 381
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569d484868a54c60800000000000000
+      internalID: 7801827095332361809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_212
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 380
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09369fa68177ac480800000000000000
+      internalID: -8878152768649862256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_213
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 380
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d089f74ca3093e0800000000000000
+      internalID: -2049073214824903418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_214
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 380
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c284b99edde12ab90800000000000000
+      internalID: -7232184113147721684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_215
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a628d496f3f9c90800000000000000
+      internalID: -7160935160991290729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_216
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b338c09d13d04ec0800000000000000
+      internalID: -3584633179450362954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_217
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b7a1fff98d9920800000000000000
+      internalID: 2998704659262585196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_218
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 381
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03327c7720d78a860800000000000000
+      internalID: 7541415025584841520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_219
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 380
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7134de80e4fdb8b20800000000000000
+      internalID: 3137847091643892503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_220
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 381
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d42845f3a5dec0800000000000000
+      internalID: -3542745257984339303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_221
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 380
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd07a40df7880bb0800000000000000
+      internalID: -4969572668028809742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_222
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 380
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c173ca86a44f300800000000000000
+      internalID: 284934489857530884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_223
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 381
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871881588794fef10800000000000000
+      internalID: 2301138716587491704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_224
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 381
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9974bf6706944cc0800000000000000
+      internalID: -3727689632872892001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_225
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27bd7969090ba3c0800000000000000
+      internalID: -4347371079266879698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_226
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 381
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc40387c91dc11d0800000000000000
+      internalID: -3378595150473179947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_227
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371bdd36584e904a0800000000000000
+      internalID: -6626514115141717645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_228
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 380
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b39c037fc5e4e50800000000000000
+      internalID: 6795471104493829019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_229
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 381
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9435db8f317d7c4a0800000000000000
+      internalID: -6573048650346441911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_230
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 381
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2714a33a391c4e0800000000000000
+      internalID: -1963125633290505555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_231
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 381
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffa26c0bcf18f450800000000000000
+      internalID: 6122678650356805627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_232
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 381
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653177cfbc6120e0800000000000000
+      internalID: -2296434764041603737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_233
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 397
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4139efc72a08cc20800000000000000
+      internalID: 3226840299119128910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_234
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 343
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef54aac34d541d0800000000000000
+      internalID: -3367051789369737564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_235
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 337
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3fd8cdf6d85fab0800000000000000
+      internalID: -4974914701779667972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_236
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 343
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d787262e72638e0800000000000000
+      internalID: -1714138754899739373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_237
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 342
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2d9f975e71b620800000000000000
+      internalID: 2788148559124180837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_238
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c014a7bb0e9a42630800000000000000
+      internalID: 3901429959892812044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeGreetingFrame_239
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 638
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11347fe0893833010800000000000000
+      internalID: 1167421417528443665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FakeGreetingFrame_0: 1601142861783775919
+      FakeGreetingFrame_1: -9152026296152251503
+      FakeGreetingFrame_10: -3381828818245843373
+      FakeGreetingFrame_100: -931852102111915592
+      FakeGreetingFrame_101: 1711458137481358974
+      FakeGreetingFrame_102: 2742478891415286589
+      FakeGreetingFrame_103: -7317585656625510203
+      FakeGreetingFrame_104: 108414470517891033
+      FakeGreetingFrame_105: -8599220013601721444
+      FakeGreetingFrame_106: 1638079513152981578
+      FakeGreetingFrame_107: -549824705618760688
+      FakeGreetingFrame_108: 1405819271014243610
+      FakeGreetingFrame_109: 5292455318827703784
+      FakeGreetingFrame_11: 8951662655353983680
+      FakeGreetingFrame_110: -4960948091276211894
+      FakeGreetingFrame_111: -4214498870972437772
+      FakeGreetingFrame_112: -2998969226033348290
+      FakeGreetingFrame_113: -1308187225902692458
+      FakeGreetingFrame_114: -4015854974762748817
+      FakeGreetingFrame_115: -593697849052940357
+      FakeGreetingFrame_116: 1879513407666606004
+      FakeGreetingFrame_117: 7983115951302189686
+      FakeGreetingFrame_118: 6173511983260887091
+      FakeGreetingFrame_119: 6189201698295896652
+      FakeGreetingFrame_12: -338046483532166254
+      FakeGreetingFrame_120: 7476039685335486633
+      FakeGreetingFrame_121: 4599405252668132322
+      FakeGreetingFrame_122: 9112785968868156941
+      FakeGreetingFrame_123: -2158993606431828709
+      FakeGreetingFrame_124: 2815340278486103601
+      FakeGreetingFrame_125: -298233300806408449
+      FakeGreetingFrame_126: 2336510431899638202
+      FakeGreetingFrame_127: 4291295631148613649
+      FakeGreetingFrame_128: 3359339299958756735
+      FakeGreetingFrame_129: -2035953858586689953
+      FakeGreetingFrame_13: -463184600744854908
+      FakeGreetingFrame_130: -846706460092973465
+      FakeGreetingFrame_131: 7440428168187172096
+      FakeGreetingFrame_132: 8279666518515481911
+      FakeGreetingFrame_133: -3094488854539218074
+      FakeGreetingFrame_134: 6777993341127062950
+      FakeGreetingFrame_135: 254843147942278059
+      FakeGreetingFrame_136: -5003316868336378519
+      FakeGreetingFrame_137: 2219639692283891064
+      FakeGreetingFrame_138: -1254422663602648655
+      FakeGreetingFrame_139: -7956780021446702365
+      FakeGreetingFrame_14: -8209012570045517161
+      FakeGreetingFrame_140: 7123325391473026174
+      FakeGreetingFrame_141: -3107610116445409485
+      FakeGreetingFrame_142: 5222359739223898895
+      FakeGreetingFrame_143: 5019454235910169674
+      FakeGreetingFrame_144: 556089065519368992
+      FakeGreetingFrame_145: 376776804584336071
+      FakeGreetingFrame_146: 5235822177883435510
+      FakeGreetingFrame_147: 3610089643186299573
+      FakeGreetingFrame_148: -2871892540943294741
+      FakeGreetingFrame_149: 9017712907866765008
+      FakeGreetingFrame_15: 6331568767905032989
+      FakeGreetingFrame_150: -6619221042001553443
+      FakeGreetingFrame_151: -7697330938895004592
+      FakeGreetingFrame_152: -2456418584151085071
+      FakeGreetingFrame_153: -3608254672112169539
+      FakeGreetingFrame_154: 7618459629463973674
+      FakeGreetingFrame_155: -7594333570367066406
+      FakeGreetingFrame_156: 6946354476991957347
+      FakeGreetingFrame_157: 648540492958525029
+      FakeGreetingFrame_158: -2853219030379470318
+      FakeGreetingFrame_159: 2136710264602120472
+      FakeGreetingFrame_16: -3202943228707299845
+      FakeGreetingFrame_160: 8447567746685904659
+      FakeGreetingFrame_161: 140856636174793008
+      FakeGreetingFrame_162: 8782819852730556921
+      FakeGreetingFrame_163: 2155803883933930810
+      FakeGreetingFrame_164: -5660767790605406207
+      FakeGreetingFrame_165: -3001647641851190956
+      FakeGreetingFrame_166: -3380293006304628529
+      FakeGreetingFrame_167: 6638220926001957631
+      FakeGreetingFrame_168: 4723940882688333181
+      FakeGreetingFrame_169: -5086933239160148404
+      FakeGreetingFrame_17: 8232527174996019408
+      FakeGreetingFrame_170: 1271641387114365644
+      FakeGreetingFrame_171: -7604407685857852437
+      FakeGreetingFrame_172: 1932442319802004683
+      FakeGreetingFrame_173: -7683403448361876718
+      FakeGreetingFrame_174: 1416073298874169966
+      FakeGreetingFrame_175: -2436054617704131063
+      FakeGreetingFrame_176: -2845680549694457977
+      FakeGreetingFrame_177: 4805980341776388507
+      FakeGreetingFrame_178: -2169511578138577237
+      FakeGreetingFrame_179: -7376825945398012378
+      FakeGreetingFrame_18: -8950915371135144611
+      FakeGreetingFrame_180: 8762921869791017605
+      FakeGreetingFrame_181: -8984907566248070880
+      FakeGreetingFrame_182: 7504595116915017829
+      FakeGreetingFrame_183: -2436287449556136572
+      FakeGreetingFrame_184: 4119236889233743292
+      FakeGreetingFrame_185: 3960466039825609456
+      FakeGreetingFrame_186: -8424895327726075766
+      FakeGreetingFrame_187: 5253953542302131969
+      FakeGreetingFrame_188: -2280250695032286776
+      FakeGreetingFrame_189: -5675606341642599987
+      FakeGreetingFrame_19: -5236373298253601211
+      FakeGreetingFrame_190: 7479113387666991346
+      FakeGreetingFrame_191: -2613225519368551684
+      FakeGreetingFrame_192: 1787609401589413654
+      FakeGreetingFrame_193: -1595433381040289509
+      FakeGreetingFrame_194: 5094263062195890771
+      FakeGreetingFrame_195: -869353471529196573
+      FakeGreetingFrame_196: 961509015409483497
+      FakeGreetingFrame_197: -2154838494394990972
+      FakeGreetingFrame_198: 1552150791965523764
+      FakeGreetingFrame_199: 7644431790890603621
+      FakeGreetingFrame_2: 400426913649063996
+      FakeGreetingFrame_20: 5832709636310766787
+      FakeGreetingFrame_200: -6711838453783228758
+      FakeGreetingFrame_201: 5409858606958121948
+      FakeGreetingFrame_202: -537472473429811358
+      FakeGreetingFrame_203: 7030958424108732775
+      FakeGreetingFrame_204: 5773256608077199473
+      FakeGreetingFrame_205: 4258183139755940622
+      FakeGreetingFrame_206: -6702875601834808482
+      FakeGreetingFrame_207: -6466984686598558992
+      FakeGreetingFrame_208: 5349310687642243133
+      FakeGreetingFrame_209: 4565715888445703083
+      FakeGreetingFrame_21: -8936121604317671088
+      FakeGreetingFrame_210: 6605903853417222807
+      FakeGreetingFrame_211: 7801827095332361809
+      FakeGreetingFrame_212: -8878152768649862256
+      FakeGreetingFrame_213: -2049073214824903418
+      FakeGreetingFrame_214: -7232184113147721684
+      FakeGreetingFrame_215: -7160935160991290729
+      FakeGreetingFrame_216: -3584633179450362954
+      FakeGreetingFrame_217: 2998704659262585196
+      FakeGreetingFrame_218: 7541415025584841520
+      FakeGreetingFrame_219: 3137847091643892503
+      FakeGreetingFrame_22: 4469996243890865584
+      FakeGreetingFrame_220: -3542745257984339303
+      FakeGreetingFrame_221: -4969572668028809742
+      FakeGreetingFrame_222: 284934489857530884
+      FakeGreetingFrame_223: 2301138716587491704
+      FakeGreetingFrame_224: -3727689632872892001
+      FakeGreetingFrame_225: -4347371079266879698
+      FakeGreetingFrame_226: -3378595150473179947
+      FakeGreetingFrame_227: -6626514115141717645
+      FakeGreetingFrame_228: 6795471104493829019
+      FakeGreetingFrame_229: -6573048650346441911
+      FakeGreetingFrame_23: -1512425765390606995
+      FakeGreetingFrame_230: -1963125633290505555
+      FakeGreetingFrame_231: 6122678650356805627
+      FakeGreetingFrame_232: -2296434764041603737
+      FakeGreetingFrame_233: 3226840299119128910
+      FakeGreetingFrame_234: -3367051789369737564
+      FakeGreetingFrame_235: -4974914701779667972
+      FakeGreetingFrame_236: -1714138754899739373
+      FakeGreetingFrame_237: 2788148559124180837
+      FakeGreetingFrame_238: 3901429959892812044
+      FakeGreetingFrame_239: 1167421417528443665
+      FakeGreetingFrame_24: 4996157498239864219
+      FakeGreetingFrame_25: 5330262779167602461
+      FakeGreetingFrame_26: -1821303379462091035
+      FakeGreetingFrame_27: -756489999399809144
+      FakeGreetingFrame_28: 6543385194947158288
+      FakeGreetingFrame_29: -2692827184751737423
+      FakeGreetingFrame_3: 5654357307222649888
+      FakeGreetingFrame_30: -5970787179855798554
+      FakeGreetingFrame_31: 5604313471896759673
+      FakeGreetingFrame_32: 2637086526594569863
+      FakeGreetingFrame_33: -7195002879183512493
+      FakeGreetingFrame_34: -5357138443441520451
+      FakeGreetingFrame_35: 7222345642842627467
+      FakeGreetingFrame_36: -4132123148406423738
+      FakeGreetingFrame_37: 8387504419986186163
+      FakeGreetingFrame_38: 7705509509896594946
+      FakeGreetingFrame_39: 8447793795350718970
+      FakeGreetingFrame_4: 1498928273390968989
+      FakeGreetingFrame_40: 3367850438200850669
+      FakeGreetingFrame_41: -6835588576913831869
+      FakeGreetingFrame_42: 2874865017545493172
+      FakeGreetingFrame_43: -4244297583265883742
+      FakeGreetingFrame_44: -16634250742258094
+      FakeGreetingFrame_45: -8753568248341522816
+      FakeGreetingFrame_46: 8166426476068622568
+      FakeGreetingFrame_47: 4948315343167089153
+      FakeGreetingFrame_48: 3861394435300669188
+      FakeGreetingFrame_49: -1200312740322049323
+      FakeGreetingFrame_5: -7038134621639392535
+      FakeGreetingFrame_50: -3496974784192471948
+      FakeGreetingFrame_51: -957515153023735544
+      FakeGreetingFrame_52: -4044002479065086856
+      FakeGreetingFrame_53: -1657298037592569418
+      FakeGreetingFrame_54: -3750673259147208292
+      FakeGreetingFrame_55: 8789515245943525029
+      FakeGreetingFrame_56: -8603561645624647368
+      FakeGreetingFrame_57: 8402554044168222960
+      FakeGreetingFrame_58: 3513890356843930895
+      FakeGreetingFrame_59: -1068289401756554108
+      FakeGreetingFrame_6: -1597869814029543678
+      FakeGreetingFrame_60: 3392029173208750928
+      FakeGreetingFrame_61: 4460079976884643126
+      FakeGreetingFrame_62: -8890935424964657645
+      FakeGreetingFrame_63: 4064653217772827619
+      FakeGreetingFrame_64: -4680043572479798077
+      FakeGreetingFrame_65: -7552570255397931105
+      FakeGreetingFrame_66: 6695030816847678633
+      FakeGreetingFrame_67: 8661405552987700677
+      FakeGreetingFrame_68: 6401143070916387266
+      FakeGreetingFrame_69: 2606269166407611125
+      FakeGreetingFrame_7: -3990461060055017194
+      FakeGreetingFrame_70: 3314896108991710693
+      FakeGreetingFrame_71: -5564935743960703934
+      FakeGreetingFrame_72: -7636156646382118523
+      FakeGreetingFrame_73: -5869330752317098895
+      FakeGreetingFrame_74: 49101449455030203
+      FakeGreetingFrame_75: 5151187270451832514
+      FakeGreetingFrame_76: -7842072674537027171
+      FakeGreetingFrame_77: 4768296832067275483
+      FakeGreetingFrame_78: 7031055248157885388
+      FakeGreetingFrame_79: -1110701546242799040
+      FakeGreetingFrame_8: 3106285150702022943
+      FakeGreetingFrame_80: 3178064938421783320
+      FakeGreetingFrame_81: 4873737602752507054
+      FakeGreetingFrame_82: 2447457334871494977
+      FakeGreetingFrame_83: 730501846707410216
+      FakeGreetingFrame_84: 1939074093928859580
+      FakeGreetingFrame_85: -5146296014676123476
+      FakeGreetingFrame_86: 4219314144240190638
+      FakeGreetingFrame_87: 4451920681400163731
+      FakeGreetingFrame_88: 5104975892702899131
+      FakeGreetingFrame_89: 8476380946228950420
+      FakeGreetingFrame_9: 3927824255869526646
+      FakeGreetingFrame_90: -6439304961757023092
+      FakeGreetingFrame_91: 4103064139724878890
+      FakeGreetingFrame_92: 6745677626452569098
+      FakeGreetingFrame_93: -2497439542348500796
+      FakeGreetingFrame_94: 5429260901421310721
+      FakeGreetingFrame_95: -4882247615265629337
+      FakeGreetingFrame_96: -7235508466498644345
+      FakeGreetingFrame_97: 5312273384232503752
+      FakeGreetingFrame_98: 7082215907104608932
+      FakeGreetingFrame_99: 5445502195523823380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
