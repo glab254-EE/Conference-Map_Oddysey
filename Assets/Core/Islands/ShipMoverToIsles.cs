@@ -7,25 +7,36 @@ using UnityEngine;
 public class ShipMoverToIsles : MonoBehaviour, IScanDetectedReciever
 {
 	[SerializeField]
+	private GlobalScoreCounter MainCounter;
+    [SerializeField]
 	private List<IslandVisualInstance> Islands;
 	[SerializeField]
 	private InterfacesHandler Interfaces_Handler;
+	[SerializeField]
+	private int VisitedFrameIndex;
     private ShipMover mover;
 	private bool Available = true;
-	void Start()
+	void Awake()
 	{
 		mover = GetComponent<ShipMover>();
-		QRScanner.instance.AddReciever(this);
-		Available = true;
         try
         {
+			List<string> Isles = new();
+			foreach(var i in Islands)
+			{
+				Isles.Add(i.Island_ID);
+			}
+			DataManager.OnStart(Isles);
             var data = DataManager.GData.IsleInformation;
+			float score = 0;
             foreach (var isleData in data)
             {
-                var found = Islands.First((a) => a.name == isleData.Key);
-                if (found != null)
+				if (isleData.Value.Item2 > 0)
                 {
-                    found.UnlockVisual(isleData.Value.Item1 > 0);
+                    var found = Islands.First((a) => a.Island_ID == isleData.Key);
+                    if (found != null)
+                        found.UnlockVisual(isleData.Value.Item1 > 0);
+                    score += isleData.Value.Item2;
                 }
             }
         }
@@ -34,6 +45,19 @@ public class ShipMoverToIsles : MonoBehaviour, IScanDetectedReciever
             Debug.LogWarning(e.Message);
         }
     }
+	void Start()
+    {
+        Available = true;
+        QRScanner.instance.AddReciever(this);
+    }
+	public void RemoveData()
+	{
+		DataManager.DeleteData();
+		foreach (var isle in Islands)
+		{
+			isle.LockIsland();
+		}
+	}
 	public void OnWin()
 	{
 		Available = true;
@@ -49,6 +73,11 @@ public class ShipMoverToIsles : MonoBehaviour, IScanDetectedReciever
 			{
 				if (isle.Island_ID == isleData.IsleName)
 				{
+					if (isle.HaveVisited())
+					{
+						Interfaces_Handler.OpenFrameByIndex(VisitedFrameIndex);
+						return;
+					}
 					if (isle.TryUnlock(isleData.IsleKey,out Transform target) == true)
                     {
 						QRScanner.instance.StopScan();

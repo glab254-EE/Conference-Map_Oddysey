@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 19423591cf37cf84fa560237261dea79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1380565723158324328
+    second: Compass Rose1 3_0
+  - first:
+      213: -5677640315284941526
+    second: Compass Rose1 3_1
+  - first:
+      213: 2421159029641805026
+    second: Compass Rose1 3_2
+  - first:
+      213: -8928562439498375964
+    second: Compass Rose1 3_3
+  - first:
+      213: -2290129482273886602
+    second: Compass Rose1 3_4
+  - first:
+      213: -4647807835468985924
+    second: Compass Rose1 3_5
+  - first:
+      213: 5724924964774428117
+    second: Compass Rose1 3_6
+  - first:
+      213: 5946909822832795108
+    second: Compass Rose1 3_7
+  - first:
+      213: -2662166897216276356
+    second: Compass Rose1 3_8
+  - first:
+      213: 1684698015587724554
+    second: Compass Rose1 3_9
+  - first:
+      213: -1620911800213447157
+    second: Compass Rose1 3_10
+  - first:
+      213: -1922167918925076165
+    second: Compass Rose1 3_11
+  - first:
+      213: 6051512113573439268
+    second: Compass Rose1 3_12
+  - first:
+      213: 4698068395922523076
+    second: Compass Rose1 3_13
+  - first:
+      213: -470439696155366960
+    second: Compass Rose1 3_14
+  - first:
+      213: 2386661494555735068
+    second: Compass Rose1 3_15
+  - first:
+      213: -3861073481103817681
+    second: Compass Rose1 3_16
+  - first:
+      213: -1909679359487878889
+    second: Compass Rose1 3_17
+  - first:
+      213: 2089892860818106831
+    second: Compass Rose1 3_18
+  - first:
+      213: 829248409536275771
+    second: Compass Rose1 3_19
+  - first:
+      213: -6995177490046320760
+    second: Compass Rose1 3_20
+  - first:
+      213: -1950576371556178073
+    second: Compass Rose1 3_21
+  - first:
+      213: 5525811045524077535
+    second: Compass Rose1 3_22
+  - first:
+      213: 5453884338238315941
+    second: Compass Rose1 3_23
+  - first:
+      213: 78231036913163321
+    second: Compass Rose1 3_24
+  - first:
+      213: 4925685759429344882
+    second: Compass Rose1 3_25
+  - first:
+      213: -5642647859649186130
+    second: Compass Rose1 3_26
+  - first:
+      213: 8858650000180420316
+    second: Compass Rose1 3_27
+  - first:
+      213: 4206031445506066694
+    second: Compass Rose1 3_28
+  - first:
+      213: 6743133289129325268
+    second: Compass Rose1 3_29
+  - first:
+      213: 1791751280270588807
+    second: Compass Rose1 3_30
+  - first:
+      213: -3245771832800041839
+    second: Compass Rose1 3_31
+  - first:
+      213: -9129310945863609962
+    second: Compass Rose1 3_32
+  - first:
+      213: 4512462769188905041
+    second: Compass Rose1 3_33
+  - first:
+      213: -8806656855687790087
+    second: Compass Rose1 3_34
+  - first:
+      213: -6321358171248902833
+    second: Compass Rose1 3_35
+  - first:
+      213: 1906144189731893038
+    second: Compass Rose1 3_36
+  - first:
+      213: -7733319574274117739
+    second: Compass Rose1 3_37
+  - first:
+      213: 9064905971262310038
+    second: Compass Rose1 3_38
+  - first:
+      213: -6206880374204205292
+    second: Compass Rose1 3_39
+  - first:
+      213: -530989968540459664
+    second: Compass Rose1 3_40
+  - first:
+      213: -2244275236151810894
+    second: Compass Rose1 3_41
+  - first:
+      213: -6419752267697193036
+    second: Compass Rose1 3_42
+  - first:
+      213: -6422434278071530518
+    second: Compass Rose1 3_43
+  - first:
+      213: -7222269675980397068
+    second: Compass Rose1 3_44
+  - first:
+      213: -1919979326158989275
+    second: Compass Rose1 3_45
+  - first:
+      213: -3618535539137574818
+    second: Compass Rose1 3_46
+  - first:
+      213: -3171651922679070097
+    second: Compass Rose1 3_47
+  - first:
+      213: 3723275535183325838
+    second: Compass Rose1 3_48
+  - first:
+      213: -106116408698817807
+    second: Compass Rose1 3_49
+  - first:
+      213: -3052492066920546193
+    second: Compass Rose1 3_50
+  - first:
+      213: -6577003978281903092
+    second: Compass Rose1 3_51
+  - first:
+      213: -6369610355703233830
+    second: Compass Rose1 3_52
+  - first:
+      213: 1064845177938013417
+    second: Compass Rose1 3_53
+  - first:
+      213: 3143519399442726379
+    second: Compass Rose1 3_54
+  - first:
+      213: 2750605081006240731
+    second: Compass Rose1 3_55
+  - first:
+      213: 4021293277944547336
+    second: Compass Rose1 3_56
+  - first:
+      213: -6216691200963871261
+    second: Compass Rose1 3_57
+  - first:
+      213: -8991803449694542511
+    second: Compass Rose1 3_58
+  - first:
+      213: -4147229390509405010
+    second: Compass Rose1 3_59
+  - first:
+      213: 6167420077587903047
+    second: Compass Rose1 3_60
+  - first:
+      213: -8261450313947459085
+    second: Compass Rose1 3_61
+  - first:
+      213: 4063264169056041527
+    second: Compass Rose1 3_62
+  - first:
+      213: 1128933008691931841
+    second: Compass Rose1 3_63
+  - first:
+      213: 2338742806517563980
+    second: Compass Rose1 3_64
+  - first:
+      213: -4483978418628271160
+    second: Compass Rose1 3_65
+  - first:
+      213: 7802605309835718081
+    second: Compass Rose1 3_66
+  - first:
+      213: -3369143261725501276
+    second: Compass Rose1 3_67
+  - first:
+      213: -2490986109852378019
+    second: Compass Rose1 3_68
+  - first:
+      213: -8563066860570305869
+    second: Compass Rose1 3_69
+  - first:
+      213: -7587299286852682543
+    second: Compass Rose1 3_70
+  - first:
+      213: 1466991831065677879
+    second: Compass Rose1 3_71
+  - first:
+      213: 4189240920939383578
+    second: Compass Rose1 3_72
+  - first:
+      213: -4430376242380325515
+    second: Compass Rose1 3_73
+  - first:
+      213: -6112581659620275111
+    second: Compass Rose1 3_74
+  - first:
+      213: 8840738869168382157
+    second: Compass Rose1 3_75
+  - first:
+      213: -5650071388599985790
+    second: Compass Rose1 3_76
+  - first:
+      213: 141568117813391716
+    second: Compass Rose1 3_77
+  - first:
+      213: 5725446948458750128
+    second: Compass Rose1 3_78
+  - first:
+      213: 4867458491805102619
+    second: Compass Rose1 3_79
+  - first:
+      213: -708230820643906814
+    second: Compass Rose1 3_80
+  - first:
+      213: -7444976022484999565
+    second: Compass Rose1 3_81
+  - first:
+      213: 5901747406098765520
+    second: Compass Rose1 3_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Compass Rose1 3_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1501
+        width: 356
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b51121ace37dce0800000000000000
+      internalID: -1380565723158324328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_1
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1781
+        width: 8
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a251105f638f431b0800000000000000
+      internalID: -5677640315284941526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_2
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1493
+        width: 364
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec77824f4fa99120800000000000000
+      internalID: 2421159029641805026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_3
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1755
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecddce44cf571480800000000000000
+      internalID: -8928562439498375964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_4
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1757
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e6a679e53d730e0800000000000000
+      internalID: -2290129482273886602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1726
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb90896166baf7fb0800000000000000
+      internalID: -4647807835468985924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_6
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1684
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd352b6ce4037f40800000000000000
+      internalID: 5724924964774428117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_7
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1734
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edda3dc9faa78250800000000000000
+      internalID: 5946909822832795108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1697
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78be9ecf451e0bd0800000000000000
+      internalID: -2662166897216276356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1661
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d69e45bef316710800000000000000
+      internalID: 1684698015587724554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1690
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed9004e4d5189e0800000000000000
+      internalID: -1620911800213447157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_11
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1693
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a1d936761355e0800000000000000
+      internalID: -1922167918925076165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_12
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1693
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427a48b743a4bf350800000000000000
+      internalID: 6051512113573439268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1693
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3837d8054e23140800000000000000
+      internalID: 4698068395922523076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1689
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9aa6eb699a879f0800000000000000
+      internalID: -470439696155366960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_15
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1684
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f816fbff1f1120800000000000000
+      internalID: 2386661494555735068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_16
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1676
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2440233026ba6ac0800000000000000
+      internalID: -3861073481103817681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_17
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1670
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71954de8db47f75e0800000000000000
+      internalID: -1909679359487878889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_18
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1705
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc920b3fb7ac00d10800000000000000
+      internalID: 2089892860818106831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1668
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35a7f0f805128b00800000000000000
+      internalID: 829248409536275771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_20
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1661
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ffaf482232cee90800000000000000
+      internalID: -6995177490046320760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_21
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1676
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767af1aef192ee4e0800000000000000
+      internalID: -1950576371556178073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_22
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1639
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb74607edf9fac40800000000000000
+      internalID: 5525811045524077535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_23
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1648
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add2c2e8e610bb40800000000000000
+      internalID: 5453884338238315941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 422
+        width: 1213
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9e9da6bee51100800000000000000
+      internalID: 78231036913163321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_25
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1610
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7cfdc91d8b5440800000000000000
+      internalID: 4925685759429344882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_26
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1619
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6fdfceaa941b1b0800000000000000
+      internalID: -5642647859649186130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_27
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1332
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde94427d3f30fa70800000000000000
+      internalID: 8858650000180420316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_28
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1344
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609038fa053de5a30800000000000000
+      internalID: 4206031445506066694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1330
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d23aa3fffb649d50800000000000000
+      internalID: 6743133289129325268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1321
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b316adb449dd810800000000000000
+      internalID: 1791751280270588807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_31
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1319
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1942cf307b3b4f2d0800000000000000
+      internalID: -3245771832800041839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1309
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d6bb501c2e4180800000000000000
+      internalID: -9129310945863609962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1297
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502ea30bfc7f9e30800000000000000
+      internalID: 4512462769188905041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_34
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1306
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f188f9df3878c580800000000000000
+      internalID: -8806656855687790087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1285
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d32b83c360648a0800000000000000
+      internalID: -6321358171248902833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_36
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1294
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fe4a79a0cf37a10800000000000000
+      internalID: 1906144189731893038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1106
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe0d0f1dabda490800000000000000
+      internalID: -7733319574274117739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1147
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964863f3f30dcd70800000000000000
+      internalID: 9064905971262310038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1067
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417f6346f2bbcd9a0800000000000000
+      internalID: -6206880374204205292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_40
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1058
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d99d9df6b81a8f0800000000000000
+      internalID: -530989968540459664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_41
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1091
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b427fa309bbad0e0800000000000000
+      internalID: -2244275236151810894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1035
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf76e9635578e6a0800000000000000
+      internalID: -6419752267697193036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_43
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1020
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb01463d0eeed6a0800000000000000
+      internalID: -6422434278071530518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 262
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5ec13bef755cb90800000000000000
+      internalID: -7222269675980397068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1002
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281330b9fcda55e0800000000000000
+      internalID: -1919979326158989275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_46
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1022
+        width: 263
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e580496591168cdc0800000000000000
+      internalID: -3618535539137574818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_47
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 967
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62878561670cf3d0800000000000000
+      internalID: -3171651922679070097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_48
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 983
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a218b5f5bbba330800000000000000
+      internalID: 3723275535183325838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 927
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2baa240bff68ef0800000000000000
+      internalID: -106116408698817807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_50
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 949
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c08f43ae53a5d0800000000000000
+      internalID: -3052492066920546193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_51
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 898
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1d2c6ab9c9b4a0800000000000000
+      internalID: -6577003978281903092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_52
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 917
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2c8ae01299a97a0800000000000000
+      internalID: -6369610355703233830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 847
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec68cb2c0717ce00800000000000000
+      internalID: 1064845177938013417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_54
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 767
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed355c1d3600ab20800000000000000
+      internalID: 3143519399442726379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_55
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 755
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f2c27fbc1c2620800000000000000
+      internalID: 2750605081006240731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 737
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8080d893ee08ec730800000000000000
+      internalID: 4021293277944547336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_57
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 749
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed70484a40e9b9a0800000000000000
+      internalID: -6216691200963871261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_58
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 743
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15523d23762b63380800000000000000
+      internalID: -8991803449694542511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 724
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac80a0a7d41276c0800000000000000
+      internalID: -4147229390509405010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_60
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 731
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423d3952e3179550800000000000000
+      internalID: 6167420077587903047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_61
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 722
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15f93e5be695d80800000000000000
+      internalID: -8261450313947459085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_62
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 711
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7821db3d936830800000000000000
+      internalID: 4063264169056041527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_63
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 716
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caab4e0796caaf00800000000000000
+      internalID: 1128933008691931841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 701
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42ca7bf032e47020800000000000000
+      internalID: 2338742806517563980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 191
+        width: 367
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3e429a265b5c1c0800000000000000
+      internalID: -4483978418628271160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_66
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 409
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cda557703c684c60800000000000000
+      internalID: 7802605309835718081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_67
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 397
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8537fcd066e31d0800000000000000
+      internalID: -3369143261725501276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_68
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 193
+        width: 356
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c11d5b45d3e6dd0800000000000000
+      internalID: -2490986109852378019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_69
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 380
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba99c33f00e92980800000000000000
+      internalID: -8563066860570305869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_70
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 368
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc32927f7f74b690800000000000000
+      internalID: -7587299286852682543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_71
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 351
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d1134c4dcb5410800000000000000
+      internalID: 1466991831065677879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_72
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 314
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b4f1b0c6c232a30800000000000000
+      internalID: 4189240920939383578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_73
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 310
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d379bd7442482c0800000000000000
+      internalID: -4430376242380325515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_74
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 309
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c04cdcd5fbb2ba0800000000000000
+      internalID: -6112581659620275111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_75
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 311
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc025c8492d90ba70800000000000000
+      internalID: 8840738869168382157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_76
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 339
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28956e6e10ae691b0800000000000000
+      internalID: -5650071388599985790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_77
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 323
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b9cdf373f6f100800000000000000
+      internalID: 141568117813391716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_78
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 310
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b06a373aafd47f40800000000000000
+      internalID: 5725446948458750128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_79
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 300
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12700b95bfac8340800000000000000
+      internalID: 4867458491805102619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_80
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 287
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b598c22dbdb26f0800000000000000
+      internalID: -708230820643906814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_81
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 286
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3722b72b0c12ea890800000000000000
+      internalID: -7444976022484999565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compass Rose1 3_82
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 8
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6999e3ff737e150800000000000000
+      internalID: 5901747406098765520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Compass Rose1 3_0: -1380565723158324328
+      Compass Rose1 3_1: -5677640315284941526
+      Compass Rose1 3_10: -1620911800213447157
+      Compass Rose1 3_11: -1922167918925076165
+      Compass Rose1 3_12: 6051512113573439268
+      Compass Rose1 3_13: 4698068395922523076
+      Compass Rose1 3_14: -470439696155366960
+      Compass Rose1 3_15: 2386661494555735068
+      Compass Rose1 3_16: -3861073481103817681
+      Compass Rose1 3_17: -1909679359487878889
+      Compass Rose1 3_18: 2089892860818106831
+      Compass Rose1 3_19: 829248409536275771
+      Compass Rose1 3_2: 2421159029641805026
+      Compass Rose1 3_20: -6995177490046320760
+      Compass Rose1 3_21: -1950576371556178073
+      Compass Rose1 3_22: 5525811045524077535
+      Compass Rose1 3_23: 5453884338238315941
+      Compass Rose1 3_24: 78231036913163321
+      Compass Rose1 3_25: 4925685759429344882
+      Compass Rose1 3_26: -5642647859649186130
+      Compass Rose1 3_27: 8858650000180420316
+      Compass Rose1 3_28: 4206031445506066694
+      Compass Rose1 3_29: 6743133289129325268
+      Compass Rose1 3_3: -8928562439498375964
+      Compass Rose1 3_30: 1791751280270588807
+      Compass Rose1 3_31: -3245771832800041839
+      Compass Rose1 3_32: -9129310945863609962
+      Compass Rose1 3_33: 4512462769188905041
+      Compass Rose1 3_34: -8806656855687790087
+      Compass Rose1 3_35: -6321358171248902833
+      Compass Rose1 3_36: 1906144189731893038
+      Compass Rose1 3_37: -7733319574274117739
+      Compass Rose1 3_38: 9064905971262310038
+      Compass Rose1 3_39: -6206880374204205292
+      Compass Rose1 3_4: -2290129482273886602
+      Compass Rose1 3_40: -530989968540459664
+      Compass Rose1 3_41: -2244275236151810894
+      Compass Rose1 3_42: -6419752267697193036
+      Compass Rose1 3_43: -6422434278071530518
+      Compass Rose1 3_44: -7222269675980397068
+      Compass Rose1 3_45: -1919979326158989275
+      Compass Rose1 3_46: -3618535539137574818
+      Compass Rose1 3_47: -3171651922679070097
+      Compass Rose1 3_48: 3723275535183325838
+      Compass Rose1 3_49: -106116408698817807
+      Compass Rose1 3_5: -4647807835468985924
+      Compass Rose1 3_50: -3052492066920546193
+      Compass Rose1 3_51: -6577003978281903092
+      Compass Rose1 3_52: -6369610355703233830
+      Compass Rose1 3_53: 1064845177938013417
+      Compass Rose1 3_54: 3143519399442726379
+      Compass Rose1 3_55: 2750605081006240731
+      Compass Rose1 3_56: 4021293277944547336
+      Compass Rose1 3_57: -6216691200963871261
+      Compass Rose1 3_58: -8991803449694542511
+      Compass Rose1 3_59: -4147229390509405010
+      Compass Rose1 3_6: 5724924964774428117
+      Compass Rose1 3_60: 6167420077587903047
+      Compass Rose1 3_61: -8261450313947459085
+      Compass Rose1 3_62: 4063264169056041527
+      Compass Rose1 3_63: 1128933008691931841
+      Compass Rose1 3_64: 2338742806517563980
+      Compass Rose1 3_65: -4483978418628271160
+      Compass Rose1 3_66: 7802605309835718081
+      Compass Rose1 3_67: -3369143261725501276
+      Compass Rose1 3_68: -2490986109852378019
+      Compass Rose1 3_69: -8563066860570305869
+      Compass Rose1 3_7: 5946909822832795108
+      Compass Rose1 3_70: -7587299286852682543
+      Compass Rose1 3_71: 1466991831065677879
+      Compass Rose1 3_72: 4189240920939383578
+      Compass Rose1 3_73: -4430376242380325515
+      Compass Rose1 3_74: -6112581659620275111
+      Compass Rose1 3_75: 8840738869168382157
+      Compass Rose1 3_76: -5650071388599985790
+      Compass Rose1 3_77: 141568117813391716
+      Compass Rose1 3_78: 5725446948458750128
+      Compass Rose1 3_79: 4867458491805102619
+      Compass Rose1 3_8: -2662166897216276356
+      Compass Rose1 3_80: -708230820643906814
+      Compass Rose1 3_81: -7444976022484999565
+      Compass Rose1 3_82: 5901747406098765520
+      Compass Rose1 3_9: 1684698015587724554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

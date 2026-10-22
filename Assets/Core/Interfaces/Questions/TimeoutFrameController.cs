@@ -34,7 +34,6 @@ public class TimeoutFrameController : MonoBehaviour
     }
     void HideFrame()
     {
-        button?.onClick.RemoveListener(HideFrame);
         Main_Object.SetActive(false);
         if (_questHandler.TryStartRun(null, null) == false)
         {

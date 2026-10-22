@@ -31,6 +31,10 @@ public class QuestionCompletedFrame : MonoBehaviour
     void Start()
     {
         _questHandler.OnFinish.AddListener(OnEnd);
+        if (button != null)
+        {
+            button.onClick.AddListener(HideFrame);
+        }
     }
     void OnEnd(float val, float maxval)
     {
@@ -40,16 +44,16 @@ public class QuestionCompletedFrame : MonoBehaviour
         }
         Text_Field.text = string.Format(Win_Format, val, maxval);
         Main_Object.SetActive(true);
-        OnAppearEvent?.Invoke();
-        if (button == null) StartCoroutine(ViewEnumerator());
-        else
+        if (OnAppearEvent != null)
         {
-            button.onClick.AddListener(HideFrame);
+            Debug.Log("On Appear Start!");
+            OnAppearEvent?.Invoke();
         }
+        if (button == null) StartCoroutine(ViewEnumerator());
+        Debug.Log("On Appear End!");
     }
     void HideFrame()
     {
-        button?.onClick.RemoveListener(HideFrame);
         Main_Object.SetActive(false);
         if (RepeatAfterClick == false || _questHandler.TryStartRun(null, null) == false)
         {

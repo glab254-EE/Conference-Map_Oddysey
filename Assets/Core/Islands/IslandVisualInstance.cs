@@ -34,22 +34,16 @@ public class IslandVisualInstance : MonoBehaviour
     [SerializeField]
     private Sprite Unlocked_Preview_Icon;
     [SerializeField]
+    private Sprite Locked_Front;
+    [SerializeField]
+    private Sprite Locked_Preview_Icon;
+    [SerializeField]
     private UnityEvent startEvent;
     public event Action OnWinEvent;
     public string Island_ID = "Island_1";
     private bool AwaitingVisit = false;
     private bool Available = true;
-#if UNITY_EDITOR
-    [SerializeField]
-    private bool Debug = false;
-    void Start()
-    {
-        if (Debug == true)
-        {
-            TriggerStart();
-        }
-    }
-#endif
+    private bool Visited = false;
     public void UnlockVisual(bool won)
     {
         if (Front_Icon_Reference.sprite != Unlocked_Front_Icon && Front_Icon_Reference.sprite != Completed_Front_Icon)
@@ -66,6 +60,26 @@ public class IslandVisualInstance : MonoBehaviour
             Front_Icon_Reference.sprite = Completed_Front_Icon;
             Front_Icon_Reference.color = Completed_Color;
         }
+        Visited = true;
+    }
+    public void LockIsland()
+    {
+        Front_Icon_Reference.sprite = Locked_Front;
+        Preview_Icon_Reference.sprite = Locked_Preview_Icon;
+        Visited = false;
+    }
+    public bool HaveVisited()
+    {
+        if (Front_Icon_Reference.sprite != Unlocked_Front_Icon && Front_Icon_Reference.sprite != Completed_Front_Icon)
+        {
+            Front_Icon_Reference.sprite = Unlocked_Front_Icon;
+            Front_Icon_Reference.color = Unlocked_Color;
+        }
+        if (Preview_Icon_Reference.sprite != Unlocked_Preview_Icon)
+        {
+            Preview_Icon_Reference.sprite = Unlocked_Preview_Icon;
+        }
+        return Visited;
     }
     public bool TryUnlock(string Key, out Transform pos)
     {

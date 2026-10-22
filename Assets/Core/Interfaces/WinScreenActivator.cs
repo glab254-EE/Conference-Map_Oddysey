@@ -11,15 +11,21 @@ public class WinScreenActivator : MonoBehaviour
     [SerializeField]
     private int TargetFrame;
     private bool Triggered = false;
+    private int currentCount = 0;
     void Start()
     {
-        counter.OnWinsChange += Trigger;
+        counter.OnWinsChange += UpdateWinCount;
     }
-    void Trigger(int count)
+    void UpdateWinCount(int count)
+    {
+        currentCount = count;
+    }
+    public void Trigger()
     {
         if (Triggered) return;
-        if (count >= TargetCount)
+        if (currentCount >= TargetCount)
         {
+            Triggered = true;
             interfacesHandler.OpenFrameByIndex(TargetFrame);
         }
     }

@@ -18,14 +18,37 @@ public class WinsCounterDisplay : MonoBehaviour
         counter.OnWinsChange += UpdateText;
         UpdateText(0);
     }
+    void OnEnable()
+    {
+        text = GetComponent<TMP_Text>();
+        UpdateText(0);
+    }
     void UpdateText(int _)
     {
         int wins = 0;
-        foreach (var values in handler.Points)
+        if (DataManager.GData.IsleInformation != null)
         {
-            if (values.Value > 0)
+            foreach (var values in DataManager.GData.IsleInformation)
             {
-                wins++;
+                if (values.Value.Item1 >= 0 && values.Value.Item2 >= 2)
+                {
+                    wins++;
+                }
+            }
+        }
+        if (handler.Points != null && handler.Points.Count > 0)
+        {
+            int newWins = 0;
+            foreach (var values in handler.Points)
+            {
+                if (values.Value >= 0)
+                {
+                    newWins++;
+                }
+            }
+            if (newWins > wins)
+            {
+                wins = newWins;
             }
         }
         text.text = string.Format(Format, wins);

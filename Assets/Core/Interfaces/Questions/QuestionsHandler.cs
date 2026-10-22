@@ -22,9 +22,10 @@ public class QuestionsHandler : MonoBehaviour
     [SerializeField]
     private string TimerFormat;
     [SerializeField]
-    private TMP_Text TimerTextField;
+    private List<TMP_Text> TimerTextField;
     [HideInInspector]
     public float Timer { get; private set; }
+    public event Action OnDataLoaded;
     public UnityEvent<int> OnStart;
     public UnityEvent<float, float> OnFinish;
     public UnityEvent<int> OnLose;
@@ -34,26 +35,22 @@ public class QuestionsHandler : MonoBehaviour
     private Coroutine mainCoroutineLoop;
     private Queue<Question> Questions;
     private string CurrentIsle;
-    void Awake()
+    void Start()
     {
-        try
+        DataManager.OnDataChange += UpdateIslandData;
+    }
+    private void UpdateIslandData(GameData data)
+    {
+        foreach (var isleData in data.IsleInformation)
         {
-            var data = DataManager.GData.IsleInformation;
-            foreach (var isleData in data)
-            {
-                Takes.Add(isleData.Key, isleData.Value.Item2);
-                Points.Add(isleData.Key, isleData.Value.Item1);
-            }
+            Takes.Add(isleData.Key, isleData.Value.Item2);
+            Points.Add(isleData.Key, isleData.Value.Item1);
         }
-        catch (Exception e)
-        {
-            Debug.LogWarning(e.Message);
-        }
+        OnDataLoaded?.Invoke();
     }
     public bool CanStartRun(string isle)
     {
-
-        if ((Questions != null
+        if ((Takes != null
             && Takes.TryGetValue(isle, out int val1)
             && val1 >= MaxTakes)
             ){
@@ -160,10 +157,13 @@ public class QuestionsHandler : MonoBehaviour
             {
                 if (TimerTextField != null)
                 {
-                    int seconds = Mathf.RoundToInt(Timer);
-                    int Minutes = seconds / 60;
-                    seconds %= 60;
-                    TimerTextField.text = string.Format(TimerFormat, Minutes, seconds);
+                    foreach (var timer in TimerTextField)
+                    {
+                        int seconds = Mathf.RoundToInt(Timer);
+                        int Minutes = seconds / 60;
+                        seconds %= 60;
+                        timer.text = string.Format(TimerFormat, Minutes, seconds);
+                    }
                 }
                 Timer -= 0.1f;
                 yield return new WaitForSecondsRealtime(0.1f);
@@ -177,6 +177,8 @@ public class QuestionsHandler : MonoBehaviour
         if (_currentPoints != 0)
         {
             _currentPoints = Mathf.Round(_currentPoints / takes * 10) / 10;
+            Takes[CurrentIsle] = MaxTakes;
+            takes = MaxTakes;
         }
         else
         {
@@ -189,14 +191,15 @@ public class QuestionsHandler : MonoBehaviour
         {
             Points.Add(CurrentIsle, _currentPoints);
         }
+        DataManager.TryUpdateTakes(CurrentIsle, takes);
+        DataManager.TryUpdateScoreCount(CurrentIsle, _currentPoints);
         if (Timer <= 0)
-        {
+        {                       
             OnTimeOut?.Invoke(takes);
         }
         else
         {
             OnFinish?.Invoke(_currentPoints, _maxPoints);
-            StopCoroutine(mainCoroutineLoop);
         }
     }
 }

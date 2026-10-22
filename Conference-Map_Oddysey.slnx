@@ -13,6 +13,7 @@
   <Project Path="UnityEngine.UI.csproj" />
   <Project Path="Unity.2D.IK.Runtime.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.2D.Runtime.csproj" />
+  <Project Path="Unity.MemoryProfiler.Editor.csproj" />
   <Project Path="Unity.2D.Psdimporter.Editor.csproj" />
   <Project Path="Unity.VisualScripting.Core.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Editor.csproj" />
@@ -55,6 +56,7 @@
   <Project Path="UnityEditor.UI.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj" />
   <Project Path="Unity.2D.Sprite.Editor.csproj" />
+  <Project Path="Unity.MemoryProfiler.Editor.MemoryProfilerModule.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Editor.Shared.csproj" />
   <Project Path="Unity.Multiplayer.Center.Common.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.csproj" />
@@ -71,7 +73,9 @@
   <Project Path="Unity.InputSystem.TestFramework.csproj" />
   <Project Path="Unity.ShaderGraph.Utilities.csproj" />
   <Project Path="Unity.VisualScripting.Shared.Editor.csproj" />
+  <Project Path="Unity.Profiling.Core.csproj" />
   <Project Path="Unity.2D.Aseprite.Common.csproj" />
+  <Project Path="Unity.EditorCoroutines.Editor.csproj" />
   <Project Path="Unity.SurfaceCache.Runtime.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj" />
   <Project Path="Unity.CollabProxy.Editor.csproj" />
@@ -80,6 +84,7 @@
   <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj" />
+  <Project Path="Unity.MemoryProfiler.csproj" />
   <Project Path="Unity.VisualScripting.DocCodeExamples.csproj" />
   <Project Path="Unity.PlasticSCM.Editor.Entities.csproj" />
   <Project Path="Tests.csproj" />
